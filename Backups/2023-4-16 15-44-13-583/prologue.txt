@@ -24,13 +24,13 @@ The angles are not yet right. The curves are not yet lines.
 
 Your eyes: closed. There was no darkness to wash the waking world with. Only a grey tint, an afterglow of reality's abstraction, realspaces stacked on top of realspaces in messy slices of space-time.
 
-A single wooden nail each, hammered into the pupils until its point meet the optical nerves behind them, then left to take root and rot away. You could still felt it, the sting of a venerable world-tree staking its way from the base of the limbic system into the ear canals, branching out from your femur to the tip of your tongue. Through it, you carved out what left inside to be given away to a witch, stuffed it full with wax, before pouring them shut with liquid quicksilver.
+A single wooden nail each, hammered into the center of the eyes, then left to take root and rot away. You could still felt it, the sting of a venerable world-tree staking its way from your optical nerves into the ear canals, branching out from your femur to the tip of your tongue. Through it, you carved out what left inside to be given away to a witch, stuffed it full with wax, before pouring them shut with liquid quicksilver.
 
 So that now, even while sleeping, even unconscious, even unwilling, even in death, you will still see them, feel them: hear the microscopic centipede-like things wringing in and out of existence at the peripheral of space, felt motes of reaction and inaction that kickstart the chaos of a butterfly wings on your skin, the way your sight violate the stillness of superposition, trace the scent of material's memory contained within all things, and finally beheld the Grayplane with all your earthly senses.
 
 To saw the world, forever, like a symbol would.
 
-//Turing's idea was later incorporate into the deployment and development of ARPANET - the result when on to be widely regarded as the first true MI, and Turing become known as the father of Manufactured Minds//
+//his idea was later incorporate into the deployment and development of ARPANET - the result when on to be widely regarded as the first true MI, and Turing become known as the father of Manufactured Minds//
 
 *Page_Break THUMP
 
@@ -44,7 +44,7 @@ So that now, even in the stillness of your thought, your body twitches, convulse
 
 To touch the world, forever, like a symbol would.
 
-//Turing was later lynched by a mob for his homosexuality after he retired to his old home in London for a vacation - a coincidence, then, that its merely weeks after he criticize the joint military American-British project for using his invention//
+//he was later lynched by a mob for his homosexuality after he retired to his old home in London for a vacation - a coincidence, then, that its merely weeks after he criticize the joint military American-British project for using his invention//
 
 *Page_Break THUMP
 
@@ -129,24 +129,14 @@ But worst of all is the endless sigh of the cicadas, a constant blaring of the m
         [i]Regretfully, you are not wearing it this time. It is wearing you.[/i]
         
         Your corpse hushed these words between its empty lungs.
-        
-        
     #Cry, with fury and breathlessness.
-        [i]C'mon now, breathe. Don't be like me. Dying cause one hell of a constipation. Not like you could die, anyway.[/i]
+        [i]Smash something if you like. But breathe. Don't be like me. That cause one hell of a constipation. Not like you can die, anyway. Would be kinda funny, in a pathetic sorta way, but kinda pointless since we don't have an audience right now. Oh wait… no, no no no, keep doing that, they are reading us.[/i]
         
-        These words drawl between chattering white teeth, a grimace set on your own corpse. 
-        
-        [i]Would be kinda funny, though - in a pathetic sorta way - pointless all the same, a damn shame that. We don't have an audience for such kinda drama, so - Wait… no, no no no, keep doing that, they are reading us.[/i]
-        
-        You grip tighten at mention of the reading gaze, and then, you breathe. Never.
+        The words drawl between chattering white teeth of your own corpse.
     #Is it to late, now, to go back? For regret?
-        [i]You know the answer to that. The least you could say is a *thank you*, thank you very much. Mariticide is not easy to do, you know.[/i]
+        [i]You know the answer to that. The least you could say is a *thank you*, thank you very much. Mariticide is not easy to do, you know. Beside, do you wager that I could…. live with myself, after making you? Making this decision? What happen then, if Quinn forgive us? Would you - me, be able to accept that? Forgiveness?[/i]
         
-        Your corpse trailed off into silence after it has practically barked out these words.
-        
-        [i]Beside, do you wager that I could…. live with myself, after making you? Making this decision? What happen then, if Quinn forgive us? Would you - me, be able to accept that? Forgiveness?[/i]
-        
-        For a moment, silence. There is an answer to that. No. So. Let's move on.
+        Your corpse trailed off into silence after it has practically barked out these words. 
         
 Where is-
 
@@ -209,15 +199,15 @@ A flash of yourself appeared in the mirror as the rush of… whatever emotion th
     #God. So I've always looked like shit.
         [i]Could be worse. You could look like me. Oh, wait. Never mind.[/i]
         
-        //smart ass//
+        (smart ass)
     #Could be worse. Still look somewhat like a face.
         [i]We have always had very low standard on these things, didn't we?[/i]
         
-        //could use a little bit more skin on those gashing cut//
+        (could use a little bit more skin on those gashing cut)
     #'Almost dead, broken nose and bloody face' could be the next fashion statement
         [i]The catwalk will never expected us. Until they call the police, that is.[/i]
         
-        //might come in handy when one would want to infiltrate a zombie horde or a group of thirty to fifty clowns - of the very sad variery//
+        (might come in handy when one would want to infiltrate a zombie horde or a group of thirty to fifty clowns - of the very sad variery)
         
 Either way, bandage yourself first, just in case. People are particularly jumpy about the half-dead walking the street.
 
@@ -229,8 +219,6 @@ Either way, bandage yourself first, just in case. People are particularly jumpy 
 
 //alright, alright everyone fucking get it. Future body, dead. Past mind, erased. said dumb fucking equation result in… present mind, present body. hooray. also, one hell of a scar//
 
-…Alright then.
-
 [i]Oooh, I were once that ironic? Nice. Will still punch you though, no offense.[/i]
 
 //none taken//
@@ -238,11 +226,11 @@ Either way, bandage yourself first, just in case. People are particularly jumpy 
 One that you have not come to possess... yet. The you now, as far as you could make out from the reflection peering back at you from a million shards of mirror, is rather... mundane. Younger. Softer. Somewhat more punchable.
 
 *fake_choice 
-    #I've killed my past, and move past  it. //Laugh, again, and again, a monster of its own making//
+    #I've killed my past, and move past  it. /Laugh, again, and again, a monster of its own making/
         [i]Yeah yeah go insane if you wanna, just do it quickly so we can move on from this dump.[/i]
-    #I've killed my past, and move past  it. //Scream, smash the sink, a long line of mistake in the making//
+    #I've killed my past, and move past  it. /Scream, smash the sink, a long line of mistake in the making/
         [i]Hold your horse there, partner. Ya going to die with that attitude, and we can't both be dripping wet corpse. Who going to pay for the dry cleaner?[/i]
-    #I've killed my past, and move past  it. //Unquiet shimmer beneath the flesh-mask, a thing cannot feel what it felt//
+    #I've killed my past, and move past  it. /Unquiet shimmer beneath the flesh-mask, a thing cannot feel what it felt/
         [i]If only it is that easy, boss. If only. You going to riding-on-rail the shit out of this plan I made, I guess, and that is what we wanted… I'm suppose. We are not here to… fix anything. Just for you to be selfish.[/i]
         
 Your thumb circle around that hole in the middle of your forehead, before pressing inside.
@@ -271,82 +259,4 @@ Can barely remember anything at all, actually. But if you would hazard a guess, 
 
 //that wretched thing last thought was of home//
 
-*label Home
-
 Home. The war. Tourism. A limbo of suburbs.
-
-
-*choice
-    *disable_reuse #The war?
-        *set parasiteRoost true
-        It ended late into your first year of elementary school. The 2000s.
-
-        Its hazy to you, now. A side effect of time travel, perhaps. Or maybe, you just never bothered to care.
-
-       //two million and seven wounded, eight hundred thousands death. two hundred and ninety thousand civilian casualty. only twenty seven thousand displaced//
-       *goto Home
-    *disable_reuse #Tourism?
-        *set inkNotWeep true
-        Perhaps death is a meme that wake the poetic hearts of people with too much time on their hands. Or perhaps the scorched cities and the ravaged rice field and ruins of old Vietnam's palace make the tourists heart's go bobbity-bob. But after the war, pain-tourism is a real industry.
-
-        //It become a cultural zeitgeist in the West. The American trade war practically gutted the country growth, and the image of men in small village huts, who some how managed to stalemate one of the biggest colonial empire on the Earth, become romanticized//
-        *goto Home
-    *disable_reuse #My limbo?
-        *set sunCalledStar true
-        The endless heat. A drought of rain. Then flood. Then storm. Then the sun boil the bleached concrete walls and the uneven rooftops and the sand-mixed-grass fields all over again before the turn of the seasons washed the clouds bone white and the beaches with tourist's trash all over again.
-
-       //childhood. growing up. sounds of karaoke and drunkards pissing themselves between the plastic stool of some street bar, of watching crying housewives spawled on the street at 2AM from their husband beating with strange fascination, of counting roadkills on the way to school and the infinity of classes between the spare hours of the day//
-
-       [i]Somewhere in Vietnam, that how we used to be.[/i]
-       *goto Home
-    *if (((parasiteRoost) and (sunCalledStar)) and (inkNotWeep)) #I am not here to fix the past.
-        *goto thePlan
-
-*label thePlan
-//so it seem//
-
-You are not here to… redo anything. If- if anything, this… this might undo whatever you could have considered 'good' about your life. I can't - you-
-
-//well, broke the narrator. what else couldn't we broke now?//
-
-[i]Alright. Enough self-pitying or whatever this is. The plan?[/i]
-
-R-right. A week or so until Dragonfall. Nearest crash site is in middle of the Pacific. Near one of the artificial island the Chinese been hiding their military project in.
-
-*create temp questionAsked = 0
-*fake_choice
-	*disable_reuse #How are we getting there?
-		[i]Did not have that much plan for it when we press go on this thing. Dunno, steal a boat, or just swim there.[/i]
-		
-		//said Youngshu Reef is 240 kilometers from Da Nang, plus two hours bus to get to the city in the first place//
-		*fake_choice
-			#So, swimming is not recommended?
-				[i]Ya think!?[/i]
-				
-				//this monster don't die//
-				
-				Drowning still hurt. And an easy way to drift somewhere.
-				
-				//true. but… there is a bad of loot lying in the tub there//
-				
-				[i]The World on Wire system can handle it. True. Hopefully. Just need to harvest it from our previous body first, yeah.[/i]
-			#Do I know how to pilot a boat?
-				[i]How hard could it be?[/i]
-				
-				//future's experience is out of my expertise//
-				
-				You never got a driving license. Yoonseo is the one who drive the team truck.
-				
-				//this whole thing is doomed from the start//
-				
-				[i]Well, we can always swim there if it come to it.[/i]
-				
-				//a guarantee, given no way the island won't be swarmed with patrol boats//
-				
-				Hmm. A few days is too soon to fully adapt to Synechia NullSight for a new body, but it should be able to "convince" a boat into doing what we wanted to. 
-				
-				//just need to harvest it from that body in the tub first, of fucking course//
-			#Maybe there are some favor that could be called?
-				Pray tell, what motherfucker down bad enough that they needed or own a favor from us of all fucking people!?
-				
-				//

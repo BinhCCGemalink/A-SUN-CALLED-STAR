@@ -13,8 +13,4 @@
     lesson08
     lesson09
     lesson10
-    
-*create parasiteRoost false
-*create inkNotWeep false
-*create sunCalledStar false
 *finish

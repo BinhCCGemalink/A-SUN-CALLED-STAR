@@ -16,7 +16,6 @@
     
 *comment convo mechanics goes here
 *create convoCount 0
-*create stillConvo false
 
 *comment stashed thoughts goes here
 *create parasiteRoost false

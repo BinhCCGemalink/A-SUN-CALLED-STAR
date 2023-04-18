@@ -8,8 +8,6 @@ The form is cracked and broken.
 
 //in 1956, a man named Turing developed a rudimentary concept for artificial intelligence and computing//
 
-*page_Break THUMP
-
 [b]THUMP[/b]
 
 Your forehead swelled with blood.
@@ -20,15 +18,13 @@ The angles are not yet right. The curves are not yet lines.
 
 //Turing was later involved in the United State tech race for the Cold War, to develop a computing matrix to simulate the human brain's neural net - which spear headed the theory of Manufactured Intelligence//
 
-*page_Break THUMP
+*Page_Break THUMP
 
 [b]THUMP[/b]
 
 Your eyes: closed. There was no darkness to wash the waking world with. Only a grey tint, an afterglow of reality's abstraction, realspaces stacked on top of realspaces in messy slices of space-time.
 
 A single wooden nail each, hammered into the pupils until its point meet the optical nerves behind them, then left to take root and rot away. You could still felt it, the sting of a venerable world-tree staking its way from the base of the limbic system into the ear canals, branching out from your femur to the tip of your tongue. Through it, you carved out what left inside to be given away to a witch, stuffed it full with wax, before pouring them shut with liquid quicksilver.
-
-*page_break Quinn used 
 
 So that now, even while sleeping, even unconscious, even unwilling, even in death, you will still see them, feel them: hear the microscopic centipede-like things wringing in and out of existence at the peripheral of space, felt motes of reaction and inaction that kickstart the chaos of a butterfly wings on your skin, the way your sight violate the stillness of superposition, trace the scent of material's memory contained within all things, and finally beheld the Grayplane with all your earthly senses.
 
@@ -129,29 +125,29 @@ But worst of all is the endless sigh of the cicadas, a constant blaring of the m
 [i]Among the apes, yet again.[/i]
 
 *fake_choice
-	#To wear their skin, yet again.
-		[i]Regretfully, you are not wearing it this time. It wil be wearing you.[/i]
-		
-		Your corpse hushed these words between its empty lungs.
-		
-		
-	#Cry, with fury and breathlessness.
-		[i]C'mon now, breathe. Don't be like me. Dying cause one hell of a constipation. Not like you could die, anyway.[/i]
-		
-		These words drawl between chattering white teeth, a grimace set on your own corpse. 
-		
-		[i]Would be kinda funny, though - in a pathetic sorta way - pointless all the same, a damn shame that. We don't have an audience for such kinda drama, so - Wait… no, no no no, keep doing that, they are reading us.[/i]
-		
-		You grip tighten at the mention of that voyeuristic gaze, the knowledge that a stranger is intruding on the most private thing any creature could have… and then, you breathe. It gaze has moved on to another sentence.
-	#Is it to late, now, to go back? For regret?
-		[i]You know the answer to that. The least you could say is a *thank you*, thank you very much. Mariticide is not easy to do, you know.[/i]
-		
-		Your corpse trailed off into silence after it has practically barked out these words.
-		
-		[i]Beside, do you wager that I could…. live with myself, after making you? Making this decision? What happen then, if Quinn forgive us? Would you - me, be able to accept that? Forgiveness?[/i]
-		
-		For a moment, silence. There is an answer to that. No. So. Let's move on.
-
+    #To wear their skin, yet again.
+        [i]Regretfully, you are not wearing it this time. It is wearing you.[/i]
+        
+        Your corpse hushed these words between its empty lungs.
+        
+        
+    #Cry, with fury and breathlessness.
+        [i]C'mon now, breathe. Don't be like me. Dying cause one hell of a constipation. Not like you could die, anyway.[/i]
+        
+        These words drawl between chattering white teeth, a grimace set on your own corpse. 
+        
+        [i]Would be kinda funny, though - in a pathetic sorta way - pointless all the same, a damn shame that. We don't have an audience for such kinda drama, so - Wait… no, no no no, keep doing that, they are reading us.[/i]
+        
+        You grip tighten at mention of the reading gaze, and then, you breathe. Never.
+    #Is it to late, now, to go back? For regret?
+        [i]You know the answer to that. The least you could say is a *thank you*, thank you very much. Mariticide is not easy to do, you know.[/i]
+        
+        Your corpse trailed off into silence after it has practically barked out these words.
+        
+        [i]Beside, do you wager that I could…. live with myself, after making you? Making this decision? What happen then, if Quinn forgive us? Would you - me, be able to accept that? Forgiveness?[/i]
+        
+        For a moment, silence. There is an answer to that. No. So. Let's move on.
+        
 Where is-
 
 The CRT TV flicked on. Something about a Silicon Valley market crash. Local language - your mother's tongue.
@@ -210,19 +206,19 @@ A flash of yourself appeared in the mirror as the rush of… whatever emotion th
 [i]I have forgotten the feeling of having eyes.[/i]
 
 *fake_choice
-	#God. So I've always looked like shit.
-		[i]Could be worse. You could look like me. Oh, wait. Never mind. You already did.[/i]
-		
-		//smart ass//
-	#Could be worse. Still look somewhat like a face.
-		[i]We have always had very low standard on these things, didn't we?[/i]
-		
-		//maybe a little bit more skin on those gashing cut, perhaps//
-	#'Almost dead, broken nose and bloody face' could be the next fashion statement.
-		[i]The catwalk will never expect us. Until they call the police, that is.[/i]
-		
-		//might come in handy when one would want to infiltrate a zombie horde or a group of thirty to fifty clowns - of the very sad variery//
-
+    #God. So I've always looked like shit.
+        [i]Could be worse. You could look like me. Oh, wait. Never mind.[/i]
+        
+        //smart ass//
+    #Could be worse. Still look somewhat like a face.
+        [i]We have always had very low standard on these things, didn't we?[/i]
+        
+        //could use a little bit more skin on those gashing cut//
+    #'Almost dead, broken nose and bloody face' could be the next fashion statement
+        [i]The catwalk will never expected us. Until they call the police, that is.[/i]
+        
+        //might come in handy when one would want to infiltrate a zombie horde or a group of thirty to fifty clowns - of the very sad variery//
+        
 Either way, bandage yourself first, just in case. People are particularly jumpy about the half-dead walking the street.
 
 //thank god this is not America… again. those yehaw dumbasses shoot anything that move, much less a zombie-looking motherfucker//
@@ -231,7 +227,7 @@ Either way, bandage yourself first, just in case. People are particularly jumpy 
 
 - your future-self said, yellow-ish drool slosh, splashing into the tub with a clocking rhythm as they spilled out drop by drops from the corner of its cold dead lips. A large patch of pinkish flesh that run from the edge between its left ear and its temple, all the way down to the tip of its chin, claiming one-third of its lips in the process.
 
-//alright, alright everyone fucking get it. future body, deadity dead there in the tub. past mind, erased - totally. said dumb fucking equation result in… present mind, present body. hooray. also, one hell of a scar//
+//alright, alright everyone fucking get it. Future body, dead. Past mind, erased. said dumb fucking equation result in… present mind, present body. hooray. also, one hell of a scar//
 
 …Alright then.
 
@@ -242,107 +238,85 @@ Either way, bandage yourself first, just in case. People are particularly jumpy 
 One that you have not come to possess... yet. The you now, as far as you could make out from the reflection peering back at you from a million shards of mirror, is rather... mundane. Younger. Softer. Somewhat more punchable.
 
 *fake_choice 
-	#I've killed my past, and move past it. //Laugh, again, and again, a monster of its own making//
-		[i]Yeah yeah go insane if you wanna, just do it quickly so we can move on from this dump.[/i]
-	#I've killed my past, and move past it. //Scream, smash the sink, a long line of mistake in the making//
-		[i]Hold your horse there, partner. Ya going to die with that attitude, and we can't both be dripping wet corpse. Who going to pay for the dry cleaner?[/i]
-	#I've killed my past, and move past it. //Unquiet shimmer beneath the flesh-mask, a thing cannot feel what it felt//
-		[i]If only it is that easy, boss. If only. You going to riding-on-rail the shit out of this plan I made, I guess, and that is what we wanted… I'm suppose. We are not here to… fix anything. Just for you to be selfish.[/i]
+    #I've killed my past, and move past  it. //Laugh, again, and again, a monster of its own making//
+        [i]Yeah yeah go insane if you wanna, just do it quickly so we can move on from this dump.[/i]
+    #I've killed my past, and move past  it. //Scream, smash the sink, a long line of mistake in the making//
+        [i]Hold your horse there, partner. Ya going to die with that attitude, and we can't both be dripping wet corpse. Who going to pay for the dry cleaner?[/i]
+    #I've killed my past, and move past  it. //Unquiet shimmer beneath the flesh-mask, a thing cannot feel what it felt//
+        [i]If only it is that easy, boss. If only. You going to riding-on-rail the shit out of this plan I made, I guess, and that is what we wanted… I'm suppose. We are not here to… fix anything. Just for you to be selfish.[/i]
+        
 Your thumb circle around that hole in the middle of your forehead, before pressing inside.
 
 No pain. Deeper, then, until the hole engulf the entirety of your thumb, and even then you felt you could push deeper and deeper still, until you, you as a being could disappear into yourself  it like some sort of Ouroboros.
 
-//its a Gate. a Beyond, stashed in. at this very place in time. in this very part of history. Localized entirely within a hole in the head//
+Only emptiness inside. A void of nothing, an infinity of everything. At this time in space. In this part of history. Localized entirely within your own head.
 
-[i]Let try NOT  to stand so close to our corpse while we play with the newborn Gate, lest this consciousness be sucked back into that wreck of a body, and waste all this effort for nothing. AGAIN.[/i]
-
-A splash of water. You jolted.
-
-*page_break It lung at me.
-
-The corpse shuddered once more, and bite at nothing in the air, before swiping space-time itself dangerously close the sink you are standing. A freak streak of reality dragged on from where it hand were, the result difficult to describe or comprehend: 
-
-Imagine, if this bathroom has been meticulously recreated in clay, a diorama, if you would. Then a finger stretched out, gouge at a piece of the clay, for demonstration sake let say the spot between the tub and the sink, and smear the clay all over. The chair. The light. Space. Time. The floor. All mushed together with a tingle of what behind the essence of the clay. Something at a layer bellow reality itself.
-
-//if one peer into that tiny bathroom, shadow of a humanoid… thing could be seen, its thumb jammed into its skull like a freak magic trick, while in the tub a corpse keep jerking itself awake as if death and space-time is merely a badly worded question. very comedic.//
+//if one peer into that tiny bathroom, a mistake in human form could be seen, its thumb jammed into its skull like a freak magic trick, while in the tub a corpse keep jerking itself awake to almost sneer, if it could rise living again that is. very comedic.//
 
 So that's it. It worked.
 
 *fake_choice
-	#I found the murder object.
-		[i]Kinda oblivious, given it fall out of your head. It was clear that the bolt was placed and held onto the mirror so that after the first struck of the head, friction will help it stay there for the repeating nailing-to by your past-self.[/i]
-	#Wait, how the hell...
-		[i]Lacking a hammer or any useful tool leave little option. The bolt was placed and held onto the mirror so that after the first struck of the head, friction will help it stay there for the repeating nailing-to by your past-self.[/i]
-	#No cleaner way?
-		[i]We didn't give any better option. Probably half-insane by the time the instruction came in due to the mind-hijacking. Enough time to put the bolt onto the mirror and started to nail it away onto your head, using the friction of the smashed mirror for some balance.[/i]
+    #I found the murder object.
+        [b]Kinda oblivious, given it fall out of your head. It was clear that the bolt was placed and held onto the mirror so that after the first struck of the head, friction will help it stay there for the repeating nailing-to by your past-self.[/b]
+    #Wait, how the hell...
+        Lacking a hammer or any useful tool leave little option. The bolt was placed and held onto the mirror so that after the first struck of the head, friction will help it stay there for the repeating nailing-to by your past-self.
+    #No cleaner way?
+        We didn't give any better option. Probably half-insane by the time the instruction came in due to the the mind-hijacking. Enough time to put the bolt onto the mirror and started to nail it away onto your head, using the friction of the smashed mirror for some balance.
 
 You picked it up. It is almost blunt, thick and slightly rusty. You searched around the place, and find that one of the medicine cabinet's missing a bolt. That must be where you got it from.
 
-[i]Rough, that. The act of hammering a rusted bolt into one's skull. Not an easy task to do, given how much pain this body must be feeling from you forcibly hijacking its consciousness to guide your own past's murder. Well, now you are both one, and can barely remember the pain, so it probably even.[/i]
+[b]Rough, that. The act of hammering a rusted bolt into one's skull. Not an easy task to do, given how much pain this body must be feeling from you forcibly hijacking its consciousness to guide your own past's murder. Well, now you are both one, and can barely remember the pain, so it probably even.[/b]
 
 Can barely remember anything at all, actually. But if you would hazard a guess, your last thoughts must be horror, if you is even capable of feeling it at the time between the maddening… impulse.
 
 //that wretched thing last thought was of home//
 
-*label HomeChoice
-*if (stillConvo=false) 
-	*set convoCount 0
+*label Home
+
 Home. The war. Tourism. A limbo of suburbs.
 
+*set convoCount 0
 *choice
-	*disable_reuse #The War?
-		*set convoCount +1
-		*set parasiteRoost true
-		*set stillConvo true
-		It ended late into your first year of elementary school. The 2000s.
-		
-		Its hazy to you, now. A side effect of time travel, perhaps. Or maybe, you just never bothered to care.
-		
-		//two million and seven wounded, eight hundred thousands death. two hundred and ninety thousand civilian casualty. only twenty seven thousand displaced//
-		*goto HomeChoice
-	*disable_reuse #Tourism?
-		*set convoCount +1
-		*set inkNotWeep true
-		*set stillConvo true
-		Perhaps death is a meme that wake the poetic hearts of people with too much time on their hands. Or perhaps the scorched cities and the ravaged rice field and ruins of old Vietnam's palace make tourists heart's go bobbity-bob. But after the war, pain-tourism is a real industry.
-		
-		//"The American trade war practically gutted the country growth, and the image of men in small village huts, who somehow managed to stalemate one of the biggest colonial empires on Earth, became romanticized"
-		(The Brown Journal of World Affairs, 2023, April 18)//
-		*goto HomeChoice
-	*disable_reuse #A Limbo?
-		*set convoCount +1
-		*set sunCalledStar true
-		*set stillConvo true
-		The endless heat. A drought of rain. Then flood. Then storm. Then the sun boil the bleached concrete walls and the uneven rooftops and the sand-mixed-grass fields all over again before the turn of the seasons washed the clouds bone white and the beaches with tourist's trash all over again.
-		
-		//childhood. growing up. sounds of karaoke and drunkards pissing themselves between the plastic stool of some street bar, of watching crying housewives sprawled on the street at 2AM from their husband beating with strange fascination, of counting roadkills on the way to school and the infinity of classes between the spare hours of the day//
-		
-		[i]Somewhere in Vietnam, that how we used to be.[/i]
-		*goto Home
-	*if (convoCount >2) #I am not here to fix the past.
-		*set stillConvo false
-		*goto ThePlan
-	
-*label ThePlan
+    *disable_reuse #The war?
+        *set convoCount +1
+        *set parasiteRoost true
+        It ended late into your first year of elementary school. The 2000s.
+
+        Its hazy to you, now. A side effect of time travel, perhaps. Or maybe, you just never bothered to care.
+
+       //two million and seven wounded, eight hundred thousands death. two hundred and ninety thousand civilian casualty. only twenty seven thousand displaced//
+       *goto Home
+    *disable_reuse #Tourism?
+        *set convoCount +1
+        *set inkNotWeep true
+        Perhaps death is a meme that wake the poetic hearts of people with too much time on their hands. Or perhaps the scorched cities and the ravaged rice field and ruins of old Vietnam's palace make the tourists heart's go bobbity-bob. But after the war, pain-tourism is a real industry.
+
+        //It become a cultural zeitgeist in the West. The American trade war practically gutted the country growth, and the image of men in small village huts, who some how managed to stalemate one of the biggest colonial empire on the Earth, become romanticized//
+        *goto Home
+    *disable_reuse #My limbo?
+        *set convoCount +1
+        *set sunCalledStar true
+        The endless heat. A drought of rain. Then flood. Then storm. Then the sun boil the bleached concrete walls and the uneven rooftops and the sand-mixed-grass fields all over again before the turn of the seasons washed the clouds bone white and the beaches with tourist's trash all over again.
+
+       //childhood. growing up. sounds of karaoke and drunkards pissing themselves between the plastic stool of some street bar, of watching crying housewives spawled on the street at 2AM from their husband beating with strange fascination, of counting roadkills on the way to school and the infinity of classes between the spare hours of the day//
+
+       [i]Somewhere in Vietnam, that how we used to be.[/i]
+       *goto Home
+    *if (convoCount = 3) #I am not here to fix the past.
+        *goto thePlan
+
+*label thePlan
 //so it seem//
 
 You are not here to… redo anything. If- if anything, this… this might undo whatever you could have considered 'good' about your life. I can't - you-
 
-//broke the narrator. what else this body has that isn't fucking breaking down now?//
+//well, broke the narrator. what else this body has that isn't fucking breaking down now?//
 
-[i]Damn it, focus. We wasted too much time on this self-pity shit. How long til DragonFall!?[/i]
+[i]Damn it, focus. We wasted too much time on this self-pity shit. The plan?[/i]
 
-//a weeks, less so if it is afternoon right now//
-
-At this time of the year, there is not much differentiation between mid morning and late afternoon.
-
-//thirteen crash sites for the first wave. six for the second. the Egg comes last, in Netherland//
-
-
+R-right, your plan. The plan that you thought of.
 
 *page_break There is no goddamn plan!?
-
-Not… precisely. We do. It just… sparse on the low level details. Its a… work in progress.
 
 You stood up to check the state of your clothing. You can't leave the motel with this getup. The blood on your body would be difficult to clean, and the smell would not go away with soap that easily. The hole - the Gate, meanwhile, is the hardest to hide.
 
@@ -351,8 +325,8 @@ You stood up to check the state of your clothing. You can't leave the motel with
 With some caveats to that, but that the high level goal. By the way, the body in the tub could senses something important in the medicine cabinet. See if it helps.
 
 *fake_choice
-	#Search the medicine cabinet
-		You searched around the bathroom's medicine cabinet for something useful. Some cotton rolls, but no bandage. Your wallet is also there, empty beside driver license, IDs and some gums.
+    #Search the medicine cabinet
+        You searched around the bathroom's medicine cabinet for something useful. Some cotton rolls, but no bandage. Your wallet is also there, empty beside driver license, IDs and some gums.
 
 
 *page_break Why did I ever think that I could do this?

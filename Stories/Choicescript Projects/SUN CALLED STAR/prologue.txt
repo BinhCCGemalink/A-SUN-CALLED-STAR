@@ -165,57 +165,33 @@ The reason is loud. There is no reason.
 
 Returned to here, to this wreck of a brain jar, this fleshlight of a body, in some dinky hotel in middle of nowhere important. With its ceiling almost pried off, dangling ceiling fan hanging like a deathtrap, the bed merely a bamboo mattress on a steel frame, and blood all over your pills. Painkillers, stashed under a shattered medical box, next to a smashed mirror in a prison box of a bathroom.
 
-*temp brainPour false
-
-*fake_choice
-	#Clutch my head. A ringing chime pulse from nowhere and yet inside it all the same. Voices. Mine.
-		*set brainPour true
-		Felt like your hand is touching the delicate crust of an egg that about to hatch. An egg… that hatched to what, exactly?
-		
-		//careful, now. there a Door inside this skull, and it already cracked ajar. ever shake a bottle of water with the cap thrown off? careful, now, or it will spill//
-		
-		What that meant to say is, well, you felt like if you wring your head hard enough, even this line thought that you are forming right this second could-
-		
-		//not just that. the consciousness that made a thing… aware that it is: this thing, that thing, something - that actually exist and move and eat and shit and whatever else/
-		
-		And feeling horny. Like you are feeling right now.
-		
-		//….could fall out. also, no one need to know that //
-		
-		*page_break Fucking hell... make it stop...
-	#Gasp. For breath? Breathing. Yes. That how living things work, right? Thinking... and god damn breathing.
-		You remember it. How to… manually do it, at least. You kept on the motion of doing it. Breathing.
-		
-		//start with the chess. in. out. the hardest part is not to repeat it. repeat it. on. and on. and on again. living is tiring business//
-		
-		You will get used to it. Living, that is. You been doing it for 30 years, and, well, hopefully, until whatever needed to be done… is done. Breathing, however? Not so much. At least for the moment.
-		
-		//the stress of… passing a living consciousness through the Door require the elimination of some baser instinct that would be considered redundant since they are already pre-programed into the lizard part of the brain. even the mechanism to breathe//
-		
-		This is a lie. You still feel horny.
-		
-		//that one is the most ancient, so - also was spelling that out really necessary?//
-		
-		*page_break Fucking hell... make it stop...
-	#Smash my head against the mirror one more time, just to be sure. Wait, why do I wanted to do that?
-		Because your first inclination toward anything is to ask 'how the fuck could I hurt myself the most doing this?' And you were so very good at doing just that a moment ago. A real champ at head-smashing into things.
-		
-		//unlike all the other times, this time breaking this skull wide open was the only course of action that make sense. the Door needed to be open, mistakes needed to be made, self-flagellation needed to be justified and all that. but it was mostly for the Door//
-		
-		Beside, no one going to be sad to see your face ruined. It was kinda unsalvageable to begin with.
-		
-		//don't be dramatic, that face was average, when it come down to it. there are worse thing to be ashamed of about this body//
-		
-		Like how you are currently feeling a bit… frustrated. Down there. Right now. Horny. In other words.
-		
-		//being honest is all that voice is good for. it could also learn the value of shutting the fuck up, once in a while//		
-		*page_break Fucking hell... make it stop...
-			
 The city is buzzing. Light bulb blinking, drowned out by the flooding midday noon. The droning static of the ancient brick of an CRT TV model. The smell of urban decay eat through your touch like day-old mold.
 
-//that is not a metaphor: this bathroom wall is filled with that green sticky thing. don't touch it, bleeding wound plus what ever that is would not result in a happy infection//
+*fake_choice
+	#Clutch my head. Voices. No. Just one. Mine.
+		As if making practical joke, someone have seemed to insert an incessant amount of wind chimes into the middle of your thought.
+		 
+		//a Door has opened inside this head. it is hanging ajar, and dangerously inviting//
+		
+		Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?
+		 
+		//a second chance. a do over. no. no. nothing like that. a… mistake. this one. the one that is reading this line, right now. what is but one more mistake to dwell within this body?//
+		 
+		Burst of red and blue bubbles and pop as your vision blurs and clears. This room. This resentment of yourself. This feeling of… inadequacy. All so… goddamn familiar.
+		 
+		*page_break Dejva Vu...
+	#Gasp. Breathe. Forgot to do it. Not how. Just is.
+		That how living things work, right? Thinking... and goddamn breathing. It took several seconds for you to narrow down the tightening feeling around your chest to be the result of that simple mistake.
+		
+		//a Door has opened inside this head. one would cast away useless knowledge like changing coats as they passed through it//
+		
+		In. Out. The monotonous bother of staying alive. It is not that hard to conjure up the instinct that has been pre-programmed to all land-dwelling animals for billions of years. The hard part is to remember that you are supposed to do it.
+		
+		//this existence is a mistake. but it is a goddamn stubborn mistake. it will live. it will torture itself alive. it will say fuck you to everyone within a light year away from this location up and including itself and every other selves. it is spiteful like that//
+		
+		The arrogance. The defeatism. The stank of lost dreams and failure. This choking feeling as you look out to the tiny bathroom window, where hazy summer light felt like watching a light at the end of a tunnel. All so… goddamn familiar.
+		*page_break Dejva Vu...
 
-*page_break This. Felt so... deja vu...
 
 [i]We have been here before. Another life. Another existence. Perhaps we could have stayed here, between these faded chalk walls and rot away into nothingness.[/i]
 

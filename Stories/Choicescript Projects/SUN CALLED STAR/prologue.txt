@@ -169,21 +169,25 @@ The city is buzzing. Light bulb blinking, drowned out by the flooding midday noo
 
 *fake_choice
 	#Clutch my head. Voices. No. Just one. Mine.
-		As if making practical joke, someone have seemed to insert an incessant amount of wind chimes into the middle of your thought.
+		As if making practical joke, someone have seemed to insert an incessant amount of your own selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked the Door.
 		 
-		//a Door has opened inside this head. it is hanging ajar, and dangerously inviting//
+		//a Door has opened inside this head. it hang ajar, still, undeniably forbidding and yet dangerously inviting. is it calling its travelers home, or… merely welcoming new visitors?//
 		
-		Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?
+		It felt like the crust of a hatching egg. Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?
 		 
-		//a second chance. a do over. no. no. nothing like that. a… mistake. this one. the one that is reading this line, right now. what is but one more mistake to dwell within this body?//
+		//the egg did not hatch. rather, it failed, then leaks and leaks and leaks itself through a crack in the head: out is the white of a being's substance. where sensations by sensations - that which is the protective individuality to nurture a mind's yolk - bleed out of forgotten memories. to go on living like this is like to read a diary only by its description, and none of its meaning//
 		 
-		Burst of red and blue bubbles and pop as your vision blurs and clears. This room. This resentment of yourself. This feeling of… inadequacy. All so… goddamn familiar.
+		Burst of red and blue bubbles and pop as your vision blurs and clears. This room. This resentment of yourself. This feeling of… inadequacy. This frustration that you can place, but so hard to admit.
+		
+		//it is horny//
+		
+		All of this is just so… goddamn familiar.
 		 
 		*page_break Dejva Vu...
-	#Gasp. Breathe. Forgot to do it. Not how. Just is.
+	#Gasp. Breathe. Forgot to do it. Not how. Just to.
 		That how living things work, right? Thinking... and goddamn breathing. It took several seconds for you to narrow down the tightening feeling around your chest to be the result of that simple mistake.
 		
-		//a Door has opened inside this head. one would cast away useless knowledge like changing coats as they passed through it//
+		//a Door has opened inside this head. it is a small and delicate thing, a worm's passage hidden to the fathomless hunger of a woodpecker's beak. provided it casted away the corporeal reminder of its flesh//
 		
 		In. Out. The monotonous bother of staying alive. It is not that hard to conjure up the instinct that has been pre-programmed to all land-dwelling animals for billions of years. The hard part is to remember that you are supposed to do it.
 		
@@ -191,6 +195,8 @@ The city is buzzing. Light bulb blinking, drowned out by the flooding midday noo
 		
 		The arrogance. The defeatism. The stank of lost dreams and failure. This choking feeling as you look out to the tiny bathroom window, where hazy summer light felt like watching a light at the end of a tunnel. All so… goddamn familiar.
 		*page_break Dejva Vu...
+	#Smash my head against the sink. Just to be sure. Be sure of... what?
+		
 
 
 [i]We have been here before. Another life. Another existence. Perhaps we could have stayed here, between these faded chalk walls and rot away into nothingness.[/i]

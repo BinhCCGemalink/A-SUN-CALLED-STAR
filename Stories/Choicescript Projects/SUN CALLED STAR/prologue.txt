@@ -173,9 +173,63 @@ The city is buzzing. Light bulb blinking, drowned out by the flooding midday noo
 		 
 		//a Door has opened inside this head. it hang ajar, still, undeniably forbidding and yet dangerously inviting. is it calling its travelers home, or… merely welcoming new visitors?//
 		
+		Something's wrong. Missing.
+		*fake_choice
+			#Tears. There should have been tears in my eye.
+				Is that what *people* do when they are sad? Are you sad? You remember that they do. Are there shaking in your chest? Are you shaking? Are you numb? Hollow?
+				
+				*page_break No.
+				
+				//does it want to?//
+				
+				*fake_choice
+					#Yes. I want to feel sad.
+						The mechanism of it is familiar to your flesh. Very well.
+						
+						//tears rolling down. choking chest. hand shanking, finger numb. a numbness that worthy of longing from singers and poets alike//
+						
+						You felt your body doing that motion. Is that enough?
+						*page_break I don't know. I feel so...
+					#No. Perhaps that is not what I want?
+						You felt it. Something… dwelling within your head. Without the pheromone and the memory of it…
+						
+						//who to say it even sadness to begin with?//
+						*page_break I don't know. I feel so...
+			#Pain. I should be in screaming. Or something. Something more.
+				Your thoughts are measured and carefully arranged. No rush. No confusion. No rush of the fight or flight mechanism rolled into every models of animals that walk this earth. Just…
+				
+				*page_break I am bleeding. It hurt, judging by the damage.
+				It does. It hurt so fucking bad.  Your face is a mess. Your scalp is bloodied with cuts. Your nose, smashed. Your body aches. Hurt so bad that you… you… wonder. You are a mess. You are in pain. Pain. How do pain… feel like? There was a jolt, yes, when the red part of the rupture meet the air, but… there also something else. Have pain always feel this perplexing?
+				
+				*fake_choice 
+					#Was it fear?
+						Something that goes way back. Further than happiness. Further than hope. Further than thoughts. Further than living. You do not possess it, no. Because…
+						
+						//it have never give a fuck about survival, then. the meat still fear, however. now, even that has been shaved away. no. this is a new old kind of fear. a more helpless form of losing control//
+						
+						Do you… want to show it? Piece that feeling together?
+						
+						*fake_choice
+							#Yes.
+								Your feet lose its footing. You collapsed on the floor. You wanted to roll into yourself. Into a cocoon. Hushed breath. Shaking.
+								
+								//the very model of a frightened animal//
+								*page_break I don't know. I feel so...
+							#No.
+								Ringing. Ringing. Ringing. Like a wind chime, dangling in the wind, following the rise and fall of your hear beats.
+								
+								//it is begging to remember something. but it doesn't want it, as the same time. perhaps one should not put a name to this form of torture//
+								*page_break I don't know. I feel so...
+					#Was it anger?
+						A reasonable assumption. Between fight and flight, you have always enjoyed the first.
+						
+						//there are stories. berserkers, roused by wounds, mortality and a copious amount of hallucinoge, rage across the glorious battlefield until everyone and everything a red mist//
+						
+						Yes. You could see that now, how your eyes are clouded. Blood hot. Teeth gritted and biting.
+								
 		It felt like the crust of a hatching egg. Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?
 		 
-		//the egg did not hatch. rather, it failed, then leaks and leaks and leaks itself through a crack in the head: out is the white of a being's substance. where sensations by sensations - that which is the protective individuality to nurture a mind's yolk - bleed out of forgotten memories. to go on living like this is like to read a diary only by its description, and none of its meaning//
+		//the egg did not hatch. rather, it unhatched, then leaks and leaks and leaks itself through a crack made in its retreat from the world, out of this shell is the white of a being's substance: where sensations by sensations - that which is the protective individuality to nurture a mind's yolk - bleed out in forgotten memories. to go on living like this is like to read a diary only by its description, and none of its meaning//
 		 
 		Burst of red and blue bubbles and pop as your vision blurs and clears. This room. This resentment of yourself. This feeling of… inadequacy. This frustration that you can place, but so hard to admit.
 		

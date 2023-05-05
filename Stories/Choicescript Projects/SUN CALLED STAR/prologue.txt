@@ -315,36 +315,53 @@ You don't even need to look to know whose corpse that was.
 
 *page_break Vomit
 
-A great worm of vertigo crept up from behind your ear lobes. A throbbing migraine that is neither from the left nor right, back nor forth, but an hidden, non-existent, fifth horizontal direction of the brain.
+A great worm of vertigo crept up from behind your ear lobes. A throbbing migraine that is neither here or there, from left nor right, back nor forth, but an hidden, non-existent, fifth horizontal direction of the brain.
 
-[i]Don't shake ours head too much, or it will pour out. The brain stuff, not the vomit. Us. Don't want to be a voyaging thoughts after all this effort.[/i]
-
-*if (brainPour)
-	//gone over it already. remember? that head is already thought-empty enough. Door. bottled water. brain jar. spilling out all over, no cap//
-	*goto vomit 
-*else
-	//there is a gate hanging ajar inside this head. Imagine the trick those college frat boy used to do with a beer can? Pop a hole into the middle of it and suck out the juice like a god damn vampire? now imagine what is the beer can in this scenario//
-	*goto vomit
-
-*label vomit
-
-The sourness linger, even as whatever lunch this newer, past body of yours let go of the lovingly dissolved… junk food?
-
-[i]God, eat better shit. At least get some green.[/i]
-
-*fake_choice
-	#Oh, I wasn't aware that we suddenly love ourselves now.
-		//could feel the love already. just so god damn wholesome this is. one mother of all epiphany is happening right now in this dinky ass bathroom uttered by a creature that seemingly just exist for its self torment. just eat better. easy peasy//
-		
-		You have a feeling that whatever you are, it is very very defensive about its own eating habit.
-		*page_break Hold on, it coming again...
-	#
+The sourness linger, even as whatever lunch this newer, past body of yours let whatever left inside its guts trail all over the floor. The greasy colors of junk food and strands of instant noddle mixed in with the blood...
 
 It clogged the broken sink as much as it clogged your throat, and the sight of it only send your stomach to revolting disagreement with what it is enthusiastically doing.
 
+[i]God, eat better shit. At least get some green.[/i]
+
 //a perfect metaphor for this whole mess//
 
-*page_break What... exactly happened?
+*fake_choice
+	#Thank you for the unsolicited health advice, dead me.
+		You're welcome. We might be some self-destructive piece of shit but we have standard damn it.
+		
+		//major blood loss require iron and protein rich food, with healthy dose of vitamin c and folic acid. tofu, fish, beans, poultry and so on. this body could also use some fiber to help with the digestive of semisolid//
+		
+		*fake_choice
+			#Did Yoon set me up to this... self-help shit?
+				//the creature miss its handler's caring leash//
+				
+				You kinda do. And someone need to make sure shit get done around here. To steer this vehicle to its pitstop. Might as well be its driver, eh?
+				
+				We were a burden. It was one of the few regrets from that happy time. A leech of compassion. Perhaps this is just how we might atone...
+				
+				//fuck. no. that just sound wrong. it just trivia. because this creature is bounching ball of useless pop-culture knowledge, it can't help but spew that thought out into the open. a momentary lapse in judgement//
+				*fake_choice
+					#And NOW of all time is the time to do it, really?
+						Right. We are way past the point of giving a fuck now. But...
+						
+						//indeed. ignore the trivias. again, it was just a momentary lapse in judgement//
+						
+						No don't do that. One could say this body is a member of the Functioning-Internal-Organ fandom. There are more romatic way to torture oneself than constipation.
+						
+					#I was not "handled". That not... how I remember it.
+						//tell that to the Bureau. tell that to its handler. oh wait//
+						
+						*fake_choice
+							#Fuck you.
+								//fuck it. fuck everyone. fuck fuck fuck fuck fuck. does that make it feel better? does it make the truth sting less?//
+								
+								Shut it. We don't have time for this.
+							#I'm sorry. Is that what you want?
+								//no no. that is not how *guilt* work. at all. there is no sorry. there is only this. don't fake it//
+	#
+
+
+*page_break Enough of that... the package's condition?
 
 Your body is trying orient itself. 
 

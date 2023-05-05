@@ -18,9 +18,9 @@ The city is buzzing. Light bulb blinking, drowned out by the flooding midday noo
 
 *fake_choice
 	#Clutch my head. Voices. No. Just one. Mine.
-		As if making practical joke, someone have seemed to insert an incessant amount of your own selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked the Door.
+		As if making practical joke, someone have seemed to insert an incessant amount of your own selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked and loose.
 		 
-		//a Door has opened inside this head. it hang ajar, still, undeniably forbidding and yet dangerously inviting. is it calling its travelers home, or… merely welcoming new visitors?//
+		/a shadow hunched closer to the sink, nesting its head in a temporal hangover. a Door hang ajar by its forehead, bloodied with glass and dangerously inviting. somewhere, doorbell rang. was it the wayward traveler returning, or the sound of new visitors?//
 		
 		*label Wrong
 		Something's wrong. Missing.
@@ -55,64 +55,18 @@ The city is buzzing. Light bulb blinking, drowned out by the flooding midday noo
 			#Pain. I should be in screaming. Or something. Something more.
 				Your thoughts are measured and carefully arranged. No rush. No confusion. No rush of the fight or flight mechanism rolled into every models of animals that walk this earth. Just…
 				
-				*page_break I am bleeding. It hurt, judging by the damage.
-				It does. It hurt so fucking bad.  Your face is a mess. Your scalp is bloodied with cuts. Your nose, smashed. Your body aches. Hurt so bad that you… you… wonder. You are a mess. You are in pain. Pain. How do pain… feel like? There was a jolt, yes, when the red part of the rupture meet the air, but…
+				//wet trails from the sting between where the red meet the air. face's a mess. aches with cuts. nose smashed. jolt between wincing breath//
 				
-				//it all feel so unnecessary. a mischaracterization of the fact. pain is unnecessary, just a way for the body to alert the mind that it is breaking down. but the mind, this one, already perfectly aware what it is doing to itself//
+				It hurts, judging by the damage. So serene a thought that was. It hurts so fucking bad. You felt nothing at all.
 				
-				*label Pain				
-				Have pain always feel this perplexing?
+				//nothing at all. nothing at all. nothing at all…//
 				
 				*fake_choice
-					*disable_reuse #Was it... sadness after all?
-						Sadness. Sad. Being sad. No. You always feel sad. So much so that it being black and blue as permanently glued into yourself like a poker face. Its there when you laugh. Its there when you cry. Its there when you cringed at a bad joke.
-
-						//always//
-
-						So no. You do not feel sad. Because you always feel sad. It is something else.
-
-						*goto Pain
-					#Was it fear?
-						The old, ancient  drug of life, the thing that started it all, the hand that turn the wheel of life. Before logic. Before hope. Before thoughts. Before pain. Rationally speaking, it should have been that sort of fear… right?
+					#Stop that.
+						//stupid sexy hemorrhaging blunt force trauma//
 						
-						*fake_choice
-							#Yes.
-								Your feet lose its footing. You collapsed on the floor. You conjure the desire to roll into yourself. Into a cocoon. Hushed breath. Shaking. If bad memories could be conjured on the fly, you would have used them. Now, reality will have to do.
-								
-								//the very model of a panic attack. by the book, and nothing more//
-								*page_break It doesn't help. I feel so...
-							#No.
-								Ringing. Ringing. Ringing. Like a wind chime, dangling in the wind, following the rise and fall of your hear beats. There is a longing in the air.
-								
-								//the monster are here. it is not in the walls. not between spaces. not hiding in the reflection of a stranger's eyes. it is standing before a broken mirror. if the monster is wondering if it is afraid of itself. the answer is yes//
-								*page_break It doesn't help. I feel so...
-							#Why waste the effort, either way?
-								//why, indeed. when all of this… it doesn't fucking matter//
-								
-								*goto Pain
-					#Was it anger?
-						Yes. You could see that now, how your eyes are clouded. Blood hot. Teeth gritted and biting. Like those B-rated action movie star that will go through inordinate amount of violence for revenge.  And if you want to, there a lot that you could claim to do in the spirit of vengeance. It is as nice of a myth to buy into as anything. Powerful. In control. 
 						
-						//masculine//
-						
-						Whatever you were, you wanted it. To buy into the hype. Maybe just this once.
-						
-						*fake_choice
-							#Yes.
-								The masculine sort of anger. The romanced sort of anger. The justified sort of anger. The fantasy of it all. All smile and flex, the cockiness and arrogance, the casual disregard of life and then carefully placed empathy only for those characters that matter to the plot. You already knew the plot. This should be easy.
-								
-								//always winning. always careless. always naked, in form and spirit, and yet proud of it. always a man. this creature is one of these things, and none of the others. perhaps it is time to break the trope//
-								*page_break It doesn't help. I feel so...
-							#No.
-								You retreat from the feeling. And yet, something linger. Quietly stewed in the back of your mind. Your body wanted to act it out, and yet it doesn't know what to do, stumbling in its own confusion, nerve firing to nowhere.
-								
-								//why must violence be monopolized in such a way? it wanted violence, too. destruction. but it hate it. it hate what it want because that want remind itself of all the bad things that still existed in the world//
-								*page_break It doesn't help. I feel so...
-							#Its... something else.
-								//doesn't fucking matter, either way//
-								
-								*goto Pain
-								
+				
 		It felt like the crust of a hatching egg. Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?
 		 
 		//the egg did not hatch. rather, it unhatched, then leaks and leaks and leaks itself through a crack made in its retreat from the world, out of this shell is the white of a being's substance: where sensations by sensations - that which is the protective individuality to nurture a mind's yolk - bleed out in forgotten memories. to go on living like this is like to read a diary only by its description, and none of its meaning//

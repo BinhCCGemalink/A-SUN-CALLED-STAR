@@ -16,56 +16,107 @@ Returned to here, to this wreck of a brain jar, this fleshlight of a body, in so
 
 The city is buzzing. Light bulb blinking, drowned out by the flooding midday noon. The droning static of the ancient brick of an CRT TV model. The smell of urban decay eat through your touch like day-old mold.
 
+[i]Something... off. About you. About me. About us.[/i]
+
+You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. You. The sum of you are not adding up.
+
 *fake_choice
-	#Clutch my head. Voices. No. Just one. Mine.
+	#How I looked, act. Manual, almost. Conscious, purposeful, an act. Not just be. 
+		*set stillConvo false
 		As if making practical joke, someone have seemed to insert an incessant amount of your own selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked and loose.
 		 
 		/a shadow hunched closer to the sink, nesting its head in a temporal hangover. a Door hang ajar by its forehead, bloodied with glass and dangerously inviting. somewhere, doorbell rang. was it the wayward traveler returning, or the sound of new visitors?//
 		
 		*label Wrong
-		Something's wrong. Missing.
+		
+		You looked at yourself. From the view point of a mirror, your face seemed stuck in time. Is it cringing? Laughing? Defeated? The expression seemed… stuck.
+		
+		Something's wrong. Missing. An open question, waiting for an answer. You felt the need to correct it. Fill in the blanks, make it natural somehow. What now?
 		*fake_choice
 			#Tears. There should have been tears in my eye.
-				Is that what *people* do when they are sad? Are you sad? You remember what they do. The motion of feeling it. Are there shaking in your chest? Are you shaking? Are you numb? Hollow? 
-				
-				No. You are just fine. that has always been the case. This, whatever it is, has been there from the start, like a second skin. It been there when you smile. When you are angry. When you are content. If it was sadness, then you have never… show it before. Or has forgotten how to. Are you fine? *Just* fine?
-				
+					Is that what *people* do when they are sad? Are you sad? You remember what they do. The motion of feeling it. Are there shaking in your chest? Are you shaking? Are you numb? Hollow? 
+
+					No. You are just fine. that has always been the case. This, whatever it is, has been there from the start, like a second skin. It been there when you smile. When you are angry. When you are content. If it was sadness, then you have never… show it before. Or has forgotten how to. Are you fine? *Just* fine?
 				*fake_choice
-					#Yes.
-						No. You are not. It could have been something else.
+					#Yes. I am fine. I must.
+						*set stillConvo true
+						No. You are not. But this could have been something else. But perhaps this is a blessing. Who would choose being sad, when there so much more… productive emotion out there? Like…
+						
+						//happiness is not a choice, here. it won't appear. no one felt that on cue. at least, not this one. but it is useless, any way. where we are going, being happy is a burden//
 						
 						*goto Wrong
 					#No.
-				
+						A silent song sing through your veins. Not fine, then. Very not fine. But not sad, yet.
+						
 						//does it want to?//
 
 						*fake_choice
-							#Yes. I want to feel sad.
-								The mechanism of it is familiar to your flesh. They could be recall. Muscle can learn. The necessary sort of chemical could be pumped to the brain.
+							#Yes. I am tired. I wanted this relief.
+								The mechanism of it is familiar to your flesh. They could be recall. Muscle can learn. All the *sad* bits of chemicals and hormones at your brain disposal, ready to be dumped to fish for a reaction at a moment notice.
 
 								//tears rolling down. choking chest. hand shanking, finger white at tip, how it gripping at your flesh. a numbness that is worthy of longing from singers and poets alike//
 
 								The motion is made. Is that enough?
 								*page_break It doesn't help. I feel so...
 							#No. Perhaps that is not what I want?
-								You felt it. Something… dwelling within your head. Without the pheromone and the memory of it…
+								*set stillConvo true
+								You felt it. Something… dwelling within your head. Without the chemicals, the reflexes, and the memory of it…
 
 								//who to say it even sadness to begin with?//
-								*page_break It doesn't help. I feel so...
+								*goto Wrong
 			#Pain. I should be in screaming. Or something. Something more.
 				Your thoughts are measured and carefully arranged. No rush. No confusion. No rush of the fight or flight mechanism rolled into every models of animals that walk this earth. Just…
 				
-				//wet trails from the sting between where the red meet the air. face's a mess. aches with cuts. nose smashed. jolt between wincing breath//
+				//wet trails stroke the sting where red touched the air. face's a mess. aches with cuts. nose smashed. jolt between wincing breath//
 				
 				It hurts, judging by the damage. So serene a thought that was. It hurts so fucking bad. You felt nothing at all.
 				
-				//nothing at all. nothing at all. nothing at all…//
+				//nothing at all. nothing at all. nothing at all.//
 				
 				*fake_choice
-					#Stop that.
-						//stupid sexy hemorrhaging blunt force trauma//
+					#Stop. No. Don't joke about this.
+						//about this stupid sexy hemorrhaging blunt force trauma?//
 						
+						You don't even like Family Guy.
 						
+						//that is not - no. this is fine. the stupidity punctuate the moronic undertone of this inner conflict to a tee//
+						
+						Least some part of you could still recognize humor. If only as a distraction from that nagging, tugging feeling behind that ephemeral *something more*.
+						*goto Wrong
+					#Am I... afraid? Deflecting it with...?
+						//with this stupid sexy hemorrhaging blunt force trauma?//
+						
+						*page_break With a South Park reference of all things!?
+						//sigh. even got the reference wrong. but… perhaps. perhaps fear is correct. that would be the rational response, isn't it? not the most rational, but nothing *normal* is ever truly rational. act it out, maybe, and see if it sticks?//
+						
+						*fake_choice
+							#Yes. I want to feel normal.
+								A body like every bodies. It felt pain. It hunger. It sleeps. It wanted to live. Before math. Before thoughts. Before hope. Before love. There was fear.
+								
+								//sweat. cold, damp sweat. chills brushed by the nape of the neck. nerves boiling. choking lungs. time freezes. frantic. trapped. precious//
+								
+								You are shaking. Folded, smaller and smaller, into yourself. The very image of a panic attack. The correct kind of response to this fucked up world. Doing what felt right. And yet…
+								*page_break It doesn't help. I feel so...
+							#No. I am too...
+								*set stillConvo true
+								You been afraid before. You are sure of it. Everything living does. That is not news. However, this feeling is. The distance from which you could measure and weight it, made this, it, unlike any dread you have felt before. More… or less?
+								
+								//despite it all, meat is still meat. the red require an answer, or it will never let this go//
+								*goto Wrong
+			#Scream? Do something stupid? Hurt someone... anyone? Even me?
+				Destruction. A well-worn tool, that impulse, one that you are used to, but now feel so out of depth in. Like the fuse been cut out of you. It still there, the restlessness, the hatred, the urge. But it won't bite. Won't ignite. Not on cue, anyway.
+				
+				And somehow, the mere thought of that seems… alien to you. Dangerous. These instincts are old. They are comforting. You have always been proficient at lashing out. At yourself. At them. Everyone. That how you kept going.
+				
+				//fuel it, then? see what happen?//
+				*fake_choice
+					#Yes. Give me. I want the rush.
+						You want the claw. You want the teeth. You wanted the blood.
+					#No. I don't want to be like that anymore.
+						
+				
+				
+				
 				
 		It felt like the crust of a hatching egg. Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?
 		 
@@ -75,7 +126,11 @@ The city is buzzing. Light bulb blinking, drowned out by the flooding midday noo
 		
 		//it is horny. sex. replication. repetition. biological. alive. wanting. longing. denied. disgusting. evil//
 		
-		All of this is just so… goddamn familiar.
+		Of all the feeling, the oldest one sticked. The worst one.
+		
+		//so debased a creature this one, that even in the face of cosmic fucking horror does it still wanted to fuck something//
+		
+		All of this… self-hatred. Is just so… goddamn familiar.
 		 
 		*page_break Dejva Vu...
 	#Gasp. Breathe. Forgot to do it. Not how. Just to.

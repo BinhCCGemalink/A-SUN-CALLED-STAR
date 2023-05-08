@@ -45,24 +45,26 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 						//happiness is not a choice, here. it won't appear. no one felt that on cue. at least, not this one. but it is useless, any way. where we are going, being happy is a burden//
 						
 						*goto Wrong
-					#No.
-						A silent song sing through your veins. Not fine, then. Very not fine. But not sad, yet.
+					#No. I am not fine. Was I ever?
+						A silent song sing through your veins. Not fine, then. Very not fine. But not sad, yet. Not until you will it.
 						
 						//does it want to?//
 
 						*fake_choice
-							#Yes. I am tired. I wanted this relief.
-								The mechanism of it is familiar to your flesh. They could be recall. Muscle can learn. All the *sad* bits of chemicals and hormones at your brain disposal, ready to be dumped to fish for a reaction at a moment notice.
+							#Yes. I am stuck. I needed this.
+								Relief. A way out. Just this once. Alright, the mechanism of it is familiar to your flesh. They could be recall. Muscle can learn. All the *sad* bits of chemicals and hormones at your brain disposal, ready to be dumped to fish for a *genuine* reaction to it all at a moment notice. At least, that the hope. Right?
 
 								//tears rolling down. choking chest. hand shanking, finger white at tip, how it gripping at your flesh. a numbness that is worthy of longing from singers and poets alike//
 
-								The motion is made. Is that enough?
+								The motion is made. Is that enough? Truly?
 								*page_break It doesn't help. I feel so...
 							#No. Perhaps that is not what I want?
 								*set stillConvo true
-								You felt it. Something… dwelling within your head. Without the chemicals, the reflexes, and the memory of it…
+								You felt it. Something… dwelling within your head. It not even urgent. Just there, ambient background noise to the thoughts and the pain and all the touch the smell the sound of it all. So wanting. Devouring. But patient. 
+								
+								Fake, in a way, because that is not how a *person* should feel emotion. But you do. Like reading a math problem: finding X, knowing Y is the result of this equation that is you. The curse of choices. Without summoning the chemicals, the reflexes, and the memory of it…
 
-								//who to say it even sadness to begin with?//
+								//who to say this feeling is even sadness to begin with?//
 								*goto Wrong
 			#Pain. I should be in screaming. Or something. Something more.
 				Your thoughts are measured and carefully arranged. No rush. No confusion. No rush of the fight or flight mechanism rolled into every models of animals that walk this earth. Just…
@@ -87,11 +89,13 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 						//with this stupid sexy hemorrhaging blunt force trauma?//
 						
 						*page_break With a South Park reference of all things!?
-						//sigh. even got the reference wrong. but… perhaps. perhaps fear is correct. that would be the rational response, isn't it? not the most rational, but nothing *normal* is ever truly rational. act it out, maybe, and see if it sticks?//
+						//sigh. even got the reference wrong. but… perhaps. perhaps fear is correct. that would be the rational response, isn't it? not the most rational, but nothing *normal* is ever truly rational//
+						
+						Perhaps you could act it out, maybe, and see if it sticks?
 						
 						*fake_choice
 							#Yes. I want to feel normal.
-								A body like every bodies. It felt pain. It hunger. It sleeps. It wanted to live. Before math. Before thoughts. Before hope. Before love. There was fear.
+								A body like every bodies. It felt pain. It hunger. It sleeps. It wanted to live. Before love. Before thoughts. Before hope. Before awareness, even. There was fear.
 								
 								//sweat. cold, damp sweat. chills brushed by the nape of the neck. nerves boiling. choking lungs. time freezes. frantic. trapped. precious//
 								
@@ -99,24 +103,54 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 								*page_break It doesn't help. I feel so...
 							#No. I am too...
 								*set stillConvo true
-								You been afraid before. You are sure of it. Everything living does. That is not news. However, this feeling is. The distance from which you could measure and weight it, made this, it, unlike any dread you have felt before. More… or less?
+								You been afraid before. You are sure of it. Everything living does. That is not news. However, this feeling is. The distance from which you could study it, weight it, measure it, consider it like an outside observer. To say that you are emotionless would be a lie, there is something there, strong, hungry to be recognized… as long as it is made known.
 								
-								//despite it all, meat is still meat. the red require an answer, or it will never let this go//
+								// just this once, the red require an answer, or it will never let this go. this first time, and no others. it needed to know that it still worked, as it supposed to. still being, and not just existing//
 								*goto Wrong
 			#Scream? Do something stupid? Hurt someone... anyone? Even me?
-				Destruction. A well-worn tool, that impulse, one that you are used to, but now feel so out of depth in. Like the fuse been cut out of you. It still there, the restlessness, the hatred, the urge. But it won't bite. Won't ignite. Not on cue, anyway.
+				Destruction. Rage. Violence. A well-worn tool, that impulse, one that you are used to, honed to a fine edge but now feel so out of depth in. Somehow, the fuse been cut out of you - no, not quite. It still there, the restlessness, the hatred, the drive. But it won't bite. Won't ignite. Not on cue, anyway. Or rather, only on cue? Confusing, how deliberate it is asking of you. The opposite of what anger supposed to be.
 				
-				And somehow, the mere thought of that seems… alien to you. Dangerous. These instincts are old. They are comforting. You have always been proficient at lashing out. At yourself. At them. Everyone. That how you kept going.
+				And somehow, the mere thought of that seems… alien to you. Dangerous. These instincts are old. They are comforting. You have always been proficient at lashing out. At yourself. At them. Everyone. That how you kept going. And now, you get to say no? Is that fair? Is that even… wise?
 				
-				//fuel it, then? see what happen?//
+				//at everyone and everything and every other things…//
 				*fake_choice
-					#Yes. Give me. I want the rush.
-						You want the claw. You want the teeth. You wanted the blood.
-					#No. I don't want to be like that anymore.
+					#If I say no now, does that mean...
+						//what? no. that now how this work. not how any of this work. no big, *dramatic* moment of self-actualization going to change this… monster. that is permanent. always//
 						
-				
-				
-				
+						Conscious. Purposeful. Eternal. It is truly a *choice* now, a question. One that is and will be asked of you, over, and over and over and over and over again. A right has been given to you, the right to say no, one that you will exercise right fucking now, if only as vindication for all the time that you couldn't before.
+						*goto Wrong
+					#So be it. Let it take me.
+						You want the claw. You want the teeth. You wanted the red. Rushing. Rushing. Rushing. Single. Simple. Mindlessness.
+						
+						//VIOLENCE//
+						
+						Your fist smashed the mirror.
+						
+						//once//
+						
+						An impact that numb your very bone. Then…
+						
+						/second. jagged edge//
+						
+						Third. Blunt cut.
+						
+						//fourth. crack red//
+						
+						Fifth. Breaking bones.
+						
+						Felt right. Hurting yourself. Hurting the enemy. Clarity of purpose. Washing it all away. The only regret here is…
+
+						//dopamine. norepinephrine. serotonin. all that jazz and more. dependable, nice and good. well, used to be, because…//
+								
+						Disassociation. A word to describe this feeling. You can't even feel a high unless you opted into it.
+						
+						*fake_choice
+							#Sixth. Seventh. Again. Again. Again. Please. Please.
+								Eight. The drop. 
+								
+								//Pain, sharper than the ambient one that aches this body//
+								
+
 				
 		It felt like the crust of a hatching egg. Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?
 		 

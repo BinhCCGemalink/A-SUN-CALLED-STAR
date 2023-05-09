@@ -21,17 +21,29 @@ The city is buzzing. Light bulb blinking, drowned out by the flooding midday noo
 You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. You. The sum of you are not adding up.
 
 *fake_choice
-	#How I looked, act. Manual, almost. Conscious, purposeful, an act. Not just be. 
+	#How I looked, felt. Manual, almost. Conscious, purposeful, an act. Not just be. 
 		*set stillConvo false
-		As if making practical joke, someone have seemed to insert an incessant amount of your own selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked and loose.
+		As if making practical joke, someone seemed to have insert an incessant amount of selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked and loose.
 		 
-		/a shadow hunched closer to the sink, nesting its head in a temporal hangover. a Door hang ajar by its forehead, bloodied with glass and dangerously inviting. somewhere, doorbell rang. was it the wayward traveler returning, or the sound of new visitors?//
+		/a shadow hunched closer to the sink, nesting its head in one hell of a temporal hangover, a existential threshold hang ajar by its forehead//
+		
+		You pressed your finger into the hole that has been carved into your skull, and watched in wonder as, one by one, your nails, then your knuckles, then your wrist disappeared unto the void-
+		
+		//a Door, bloodied, stood so forbiddingly beyond approach and yet so dangerously inviting all the same//
+		
+		…Nothing. Everything. You knocked against that metaphorical Door, trying to pry the gap just a bit wider, feel the way its hinge slaps against the frame, and slip - there goes the part of yourself that stuck behind, lost to the other side.
+		
+		//somewhere, doorbell rang. was it the greeting of wayward traveler returning, or the welcoming of new visitors?//
+	
+		[i]Room service. Must be.[/i]
+		
+		 And so you retreated your palm, and clenched its tight. You knocked. You KNOCKED. Nothing good will came of it now. Whatever that was lost, is lost, and never to return. Hopefully, it won't come bearing gifts.
 		
 		*label Wrong
 		
-		You looked at yourself. From the view point of a mirror, your face seemed stuck in time. Is it cringing? Laughing? Defeated? The expression seemed… stuck.
+		You looked at yourself. From the view point of the cracked mirror, your face seemed stuck in time. Is it cringing? Laughing? Defeated? The expression seemed… stuck.
 		
-		Something's wrong. Missing. An open question, waiting for an answer. You felt the need to correct it. Fill in the blanks, make it natural somehow. What now?
+		Wrong, so wrong, like an wrong answer to an open question, mocking in its incorrectness. You felt the need to correct it. Fill in the blanks, make it natural somehow. What now?
 		*fake_choice
 			#Tears. There should have been tears in my eye.
 					Is that what *people* do when they are sad? Are you sad? You remember what they do. The motion of feeling it. Are there shaking in your chest? Are you shaking? Are you numb? Hollow? 
@@ -60,9 +72,11 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 								*page_break It doesn't help. I feel so...
 							#No. Perhaps that is not what I want?
 								*set stillConvo true
-								You felt it. Something… dwelling within your head. It not even urgent. Just there, ambient background noise to the thoughts and the pain and all the touch the smell the sound of it all. So wanting. Devouring. But patient. 
+								You felt it. Something… dwelling within your head, rising… but not urgent. Just there, ambient background noise to the thoughts and the pain and all the touch the smell the sound of it all. So wanting. Devouring. But patient. 
 								
-								Fake, in a way, because that is not how a *person* should feel emotion. But you do. Like reading a math problem: finding X, knowing Y is the result of this equation that is you. The curse of choices. Without summoning the chemicals, the reflexes, and the memory of it…
+								//fake, in a way, because that is not how a *person* should feel emotion, but-//
+								
+								But you do. Like reading a math problem: finding X, knowing Y is the result of this equation that is you. The curse of choices. Without summoning the chemicals, the reflexes, and the memory of it…
 
 								//who to say this feeling is even sadness to begin with?//
 								*goto Wrong
@@ -110,14 +124,17 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 			#Scream? Do something stupid? Hurt someone... anyone? Even me?
 				Destruction. Rage. Violence. A well-worn tool, that impulse, one that you are used to, honed to a fine edge but now feel so out of depth in. Somehow, the fuse been cut out of you - no, not quite. It still there, the restlessness, the hatred, the drive. But it won't bite. Won't ignite. Not on cue, anyway. Or rather, only on cue? Confusing, how deliberate it is asking of you. The opposite of what anger supposed to be.
 				
-				And somehow, the mere thought of that seems… alien to you. Dangerous. These instincts are old. They are comforting. You have always been proficient at lashing out. At yourself. At them. Everyone. That how you kept going. And now, you get to say no? Is that fair? Is that even… wise?
+				And somehow, the mere thought of that seems… alien to you. Dangerous. These instincts are old. They are comforting. You have always been proficient at lashing out. At yourself. At them. Everyone. That how you kept going. 
 				
-				//at everyone and everything and every other things…//
+				//and now, it get to say no. the metaphorical act running in the hall with a finger hovering over the trigger of a loaded shotgun, never pulling back. Is that smart? Is it even… possible? sustainable?//
+				
 				*fake_choice
-					#If I say no now, does that mean...
-						//what? no. that now how this work. not how any of this work. no big, *dramatic* moment of self-actualization going to change this… monster. that is permanent. always//
+					#I have enough of being angry.
+						Even if you know that this couldn't last.
 						
-						Conscious. Purposeful. Eternal. It is truly a *choice* now, a question. One that is and will be asked of you, over, and over and over and over and over again. A right has been given to you, the right to say no, one that you will exercise right fucking now, if only as vindication for all the time that you couldn't before.
+						//it is truly a *choice* now, isn't it? one that is and will be asked, over, and over and over and over and over again, until-//
+						
+						Until you say "yes".
 						*goto Wrong
 					#So be it. Let it take me.
 						You want the claw. You want the teeth. You wanted the red. Rushing. Rushing. Rushing. Single. Simple. Mindlessness.

@@ -33,10 +33,12 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 		…Nothing. Everything. You knocked against that metaphorical Door, trying to pry the gap just a bit wider, feel the way its hinge slaps against the frame, and slip - there goes the part of yourself that stuck behind, lost to the other side.
 		
 		//somewhere, doorbell rang. was it the greeting of wayward traveler returning, or the welcoming of new visitors?//
-	
-		[i]Room service. Must be. Close, but not our room.[/i]
 		
-		 And so you retreated your palm, and clenched its tight. You knocked. You KNOCKED. Nothing good will came of it now. Whatever that was lost, is lost, and never to return. Hopefully, it won't come bearing gifts.
+		*page_break Footsteps.
+		
+		[i]Room service. Must be. Close, but not our room. Greeting. Then walking away. Not us.[/i]
+		
+		And so you retreated your palm, and clenched its tight. You knocked. You KNOCKED. Nothing good will came of it now. Whatever that was lost, is lost, and never to return. Hopefully, it won't come bearing gifts.
 		
 		*label Wrong
 		
@@ -110,17 +112,17 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 								
 								//sweat. cold, damp sweat. chills brushed by the nape of the neck. nerves boiling. choking lungs. time freezes. frantic. trapped. precious//
 								
-								You are shaking. Folded, smaller and smaller, into yourself. The very image of a panic attack. The correct kind of response to this fucked up world. Doing what felt right. And yet…
+								You are shaking. Folded, smaller and smaller, into yourself. The very image of a panic attack. The correct kind of response to this fucked up world. Doing what should felt right. And yet…
 								*page_break It doesn't help. I feel so...
 							#No. I am too...
 								You been afraid before. You are sure of it. Everything living does. That is not news. However, this feeling is. The distance from which you could study it, weight it, measure it, consider it like an outside observer. To say that you are emotionless would be a lie, there is something there, strong, hungry to be recognized… as long as it is made known.
 								
 								// just this once, the red require an answer, or it will never let this go. this first time, and no others. it needed to know that it still worked, as it supposed to. still being, and not just existing//
 								*goto Wrong
-			#Scream? Do something stupid? Hurt someone... anyone? Even me?
-				Destruction. Rage. Violence. A well-worn tool, that impulse, one that you are used to, honed to a fine edge but now feel so out of depth in. Somehow, the fuse been cut out of you - no, not quite. It still there, the restlessness, the hatred, the drive. But it won't bite. Won't ignite. Not on cue, anyway. Or rather, only on cue? Confusing, how deliberate it is asking of you. The opposite of what anger supposed to be.
+			#Scream? Do something stupid? Hurt someone... anyone? Me, most of all?
+				Destruction. Rage. Violence. A well-worn tool, that impulse, one that you are used to, honed to a fine edge but now feel so out of depth in. Somehow, the fuse been cut out of you - no, not quite. It still there, the restlessness, the hatred, the drive. But it won't bite. Won't ignite. Not on cue, anyway. Or rather, only on cue? Deliberate consideration is asked of you. Slot in the key, rev the engine, let go of the wheel. How very much the opposite of what *anger* supposed to be.
 				
-				And somehow, the mere thought of that seems… alien to you. Dangerous. These instincts are old. They are comforting. You have always been proficient at lashing out. At yourself. At them. Everyone. That how you kept going. 
+				Alien, this request. Dangerous. These instincts are old. They are comforting. You have always been proficient at lashing out. At yourself. At them. Everyone. That how you kept going. 
 				
 				//and now, it get to say no. the metaphorical act running in the hall with a finger hovering over the trigger of a loaded shotgun, never pulling back. Is that smart? Is it even… possible? sustainable?//
 				
@@ -130,14 +132,14 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 						
 						//it is truly a *choice* now, isn't it? one that is and will be asked, over, and over and over and over and over again, until-//
 						
-						Until you say "yes".
+						Until you say "yes". Maybe even in your next sentence. But… you shall. Make up for all the time you couldn't before. Revenge for lost chances.
 						*goto Wrong
 					#So be it. Let it take me.
 						You want the claw. You want the teeth. You wanted the red. Rushing. Rushing. Rushing. Single. Simple. Mindlessness.
 						
 						//VIOLENCE//
 						
-						Your fist smashed the mirror.
+						Your fist cracked the shattered mirror, where your head didn't finish the smash.
 						
 						//once//
 						
@@ -149,32 +151,51 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 						
 						//four. crack red//
 						
-						Six. Breaking.
+						Five. Breaking.
 						
 						Felt right. Hurting yourself. Hurting the enemy. Clarity of purpose. Washing it all away. The only regret here is…
 
-						//dopamine. norepinephrine. serotonin. all that jazz and more. dependable, nice and good. well, used to be, because…//
+						//dopamine. serotonin. norepinephrine. all that jazz… and more. dependable, nice and good. well, used to be, because…//
 								
-						Disassociation. A word to describe this feeling. You couldn't even feel the high of adrenaline unless you opted into it.
+						Disassociation. A word to describe this feeling. You couldn't even feel the high of adrenaline unless you opted into it. Too good. You are too good at controlling it now. Fuck.
 						
 						*fake_choice
 							#Six. Seven. Again. Again. Again. Please. Please.
-								Eight. The drop. 
+								Eight. Numbing.
 								
-								//nine. numbness//
+								//nine. the drop//
 								
-								Pain, pain sharper than the ambient aches. More blunt than the paralyzing wounds that dot your ruined face.
+								Pain, pain sharper than the ambient aches. More blunt than the paralyzing wounds that salt your ruined face. Even if it make you feel terrible. For accepting. Agreeing to be this sort of… thing.
 								
+								[i]No.[/i]
+								
+								[i]This is enough.[/i]
+								
+								//can't do it anymore. too irrational. still have need. still useful. this body//
+								
+								And so, you crashed. From the high.
+								
+								The high. It never made you feel less like a shit. You still feel like shit. But it made you felt powerful. IN CONTROL. So in control that you could take it. The abuse. The pain. The will to keep doing it.
+								
+								Now, you could see it. Decide it. And this just make you felt bad for yourself. You see pain in the reflection that watched you through those cracked mirrored eyes, and…
+								
+								//that creature needed a hug, it thought//
+								*page_break It doesn't help. I feel so...
+							#Control only make me feel worse when I have to do this. Be this kind of...
+								So don't. You have the option now, right? And you have the spite for it. To say no. You hate yourself enough that you would revel in denying yourself of anything. Even this high. Its the small victories.
+								
+								//stoicism never helped before. delaying the inevitable. the fuse is cut, yes. but the core is still black. dark, like gun powder. it is meant for fire. neuter it, and what the point?//
+								*goto Wrong
 												
 		It felt like the crust of a hatching egg. Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?
 		 
 		//the egg did not hatch. rather, it unhatched, then leaks and leaks and leaks itself through a crack made in its retreat from the world, out of this shell is the white of a being's substance: where sensations by sensations - that which is the protective individuality to nurture a mind's yolk - bleed out in forgotten memories. to go on living like this is like to read a diary only by its description, and none of its meaning//
 		 
-		Burst of red and blue bubbles and pop as your vision blurs and clears. This room. This resentment of yourself. This feeling of… inadequacy. This frustration that you can place, but so hard to admit.
+		Burst of red and blue bubbles and pop as your vision blurs and clears. This room. This resentment of yourself. This feeling of… inadequacy. This frustration that you can place, but so hard to admit. The freedom. Ultimate freedom of it. Of this. Why, now of all time, where you have the most control over your fate, does it feel so claustrophobic?
 		
 		//it is horny. sex. replication. repetition. biological. alive. wanting. longing. denied. disgusting. evil//
 		
-		Of all the feeling, the oldest one sticked. The worst one.
+		Of all the feeling, the oldest one sticked. The worst one. The one that species, not individuals, lived for. Is that it? For this!?
 		
 		//so debased a creature this one, that even in the face of cosmic fucking horror does it still wanted to fuck something//
 		
@@ -197,8 +218,6 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 		The arrogance. The defeatism. The stank of lost dreams and failure. This choking feeling as you look out to the tiny bathroom window, where hazy summer light felt like watching a light at the end of a tunnel. All so… goddamn familiar.
 		*page_break Dejva Vu...
 	#Smash my head against the sink. Just to be sure. Be sure of... what?
-		
-
 
 [i]We have been here before. Another life. Another existence. Perhaps we could have stayed here, between these faded chalk walls and rot away into nothingness.[/i]
 

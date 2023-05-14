@@ -22,42 +22,51 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 
 *fake_choice
 	#How I looked, felt. Manual, almost. Conscious, purposeful, an act. Not just be. 
-		As if making practical joke, someone seemed to have insert an incessant amount of selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked and loose.
+		As if making practical joke, someone seemed to have insert an incessant amount of selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked and loose. All of them. All but one.
 		 
-		/a shadow hunched closer to the sink, nesting its head in one hell of a temporal hangover, a existential threshold hang ajar by its forehead//
+		//in the cracked shadow of a mirror hanging above the porcelain sink, a reflection looked back. a Door, bloodied, is hanging ajar by this creature's forehead, its knob so forbiddingly beyond approach and yet so dangerously inviting all the same//
 		
 		You pressed your finger into the hole that you carved, and watched in wonder as, one by one, your nails, then your knuckles, then your wrist disappeared unto the gap between your skull and the beyond behind it-
 		
-		//a Door, bloodied, stood so forbiddingly beyond approach and yet so dangerously inviting all the same//
-		
-		…Nothing. Everything. You knocked against that metaphorical Door, trying to pry the gap just a bit wider, feel the way its hinge slaps against the frame, and slip - there goes the part of yourself that stuck behind, lost to the other side.
+		…Nothing. Everything. You claw against that metaphorical Door, trying to pry the gap just a bit wider, feel the way its hinge slaps against the frame, and slip - there goes the part of yourself that stuck behind, lost to the other side.
 		
 		//somewhere, doorbell rang. was it the greeting of wayward traveler returning, or the welcoming of new visitors?//
 		
 		*page_break Footsteps.
 		
-		[i]Room service. Must be. Close, but not our room. Greeting. Then walking away. Not us.[/i]
+		[i]Room service. Must be.[/i]
 		
-		And so you retreated your palm, and clenched its tight. You knocked. You KNOCKED. Nothing good will came of it now. Whatever that was lost, is lost, and never to return. Hopefully, it won't come bearing gifts.
+		Plastic shoes meet the floor tiles. Rattling of keys. Turning of a knobs. Greetings.
 		
+		[i]Not us.[/i]
+		
+		False alarm only make you even more aware how vulnerable your current situation is - so you retreated your palm, and clenched its tight. 
+		
+		//knocking. knocking. the Door is still hang ajar. what use is knocking now?//		
 		*label Wrong
 		
 		You looked at yourself. From the view point of the cracked mirror, your face seemed stuck in time. Is it cringing? Laughing? Defeated? The expression seemed… stuck.
 		
 		Wrong, so wrong, an incorrect answer to an open question, mockingly so. You felt the need to correct it. Fill in the blanks, make it natural somehow. What now?
 		*fake_choice
-			#Tears. There should have been tears in my eye.
+			#Tears. There should have been tears in my eye. I am not fine. Not fine.
 					Is that what *people* do when they are sad? Are you sad? You remember what they do. The motion of feeling it. Are there shaking in your chest? Are you shaking? Are you numb? Hollow? 
 
-					No. You are just fine. that has always been the case. This, whatever it is, has been there from the start, like a second skin. It been there when you smile. When you are angry. When you are content. If it was sadness, then you have never… show it before. Or has forgotten how to. Are you fine? *Just* fine?
+					No. You are just fine. that has always been the case. This feeling that you are trying to make sense of, whatever it is, has been there from the start, like a second skin. It been there when you smile. When you are angry. When you are content. 
+					
+					//the default state of matter. nothing fancy. nothing intriguing. just there//
+					
+					No one would give a name to the default state of something. A name like 'sadness' or 'grieve'. Too dramatic. Or meaningful. There is nothing like that here. Just there. Just here. Just fine.
+					
+					//is it? is the reflection looking back truly *just* fine?//
 				*fake_choice
 					#Yes. I am fine. I must.
-						No. You are not. But this could have been something else. But perhaps this is a blessing. Who would choose being sad, when there so much more… productive emotion out there? Like…
+						No. You are not. But this could have been something else. Perhaps even a blessing. Who would choose being sad, when there so much more… productive emotion out there? Like…
 						
-						//happiness is not a choice, here. it won't appear. no one felt that on cue. at least, not this one. but it is useless, any way. where we are going, being happy is a burden//
+						//happiness is not a choice, here. it won't appear. no one felt that on cue. at least, not this creature. but it is useless, any way. where this story going to go, being happy is a burden//
 						
 						*goto Wrong
-					#No. I am not fine. Was I ever?
+					#No. I am not fine. Was I ever that sort of creature?
 						A silent song sing through your veins. Not fine, then. Very not fine. But not sad, yet. Not until you will it.
 						
 						//does it want to?//
@@ -79,7 +88,7 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 
 								//who to say this feeling is even sadness to begin with?//
 								*goto Wrong
-			#Pain. I should be in screaming. Or something. Something more.
+			#Dread. I should be in crying or... something? No one should be sane after this.
 				Your thoughts are measured and carefully arranged. No rush. No confusion. No rush of the fight or flight mechanism rolled into every models of animals that walk this earth. Just…
 				
 				//wet trails stroke the sting where red touched the air. face's a mess. aches with cuts. nose smashed. jolt between wincing breath//
@@ -94,28 +103,35 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 						
 						You don't even like Family Guy.
 						
-						//that's not- never mind. this conversation is already moronic, one more 
+						//that's not- never mind. this conversation is already moronic enough…// 
 						
 						Least some part of you could still recognize humor. If only as a distraction from that nagging, tugging feeling behind that ephemeral *something more*.
 						*goto Wrong
-					#Am I... afraid? Deflecting it with...?
-						//with this stupid sexy hemorrhaging blunt force trauma?//
+					#Am I... afraid of admitting this? Deflecting it with...?
+						//it was an ill attempt at humor. there is that South Park episode where they have the big fat do nothing father going skiing? and there is this neighbor of his dressed in tight red speedo?//
 						
-						*page_break With a South Park reference of all things!?
-						//sigh. even got the reference wrong. but… perhaps. perhaps fear is correct. that would be the rational response, isn't it? not the most rational, but nothing *normal* is ever truly rational//
+						You can't even make sense of… whatever the hell you are, supposed to be, or… fuck. But you remember this.
 						
-						Perhaps you could act it out, maybe, and see if it sticks?
+						*page_break It was not South Park, I think.
+						
+						//of course not. but remember such things is no longer important. there not going to be- not. fuck. goddamn it. not going to be be another sofa. no more playful banter made over bad humor. arguments over the next bad movie that definitely must be watched. because it might be the last time that everyone on that sofa will ever watch it. never a time like that. ever again//
+						
+						Won't that struck fear into your heart? You… knew that anyone else in that room would have answered 'Yes'. But would you?
+						
+						//would the finger that pulled the trigger be afraid of where the bullet would land?//
 						
 						*fake_choice
-							#Yes. I want to feel normal.
+							#Yes. I wanted this. Person-like.
 								A body like every bodies. It felt pain. It hunger. It sleeps. It wanted to live. Before love. Before thoughts. Before hope. Before awareness, even. There was fear.
 								
 								//sweat. cold, damp sweat. chills brushed by the nape of the neck. nerves boiling. choking lungs. time freezes. frantic. trapped. precious//
 								
-								You are shaking. Folded, smaller and smaller, into yourself. The very image of a panic attack. The correct kind of response to this fucked up world. Doing what should felt right. And yet…
+								You are shaking. Folded, smaller and smaller, into yourself. The very image of a panic attack. The correct kind of response to this fucked up world. Realization of what you going to do to yourself. To everyone. It should have been a moment of release. Knowing what you truly, really, felt. And yet… was this too late?
 								*page_break It doesn't help. I feel so...
-							#No. I am too...
-								You been afraid before. You are sure of it. Everything living does. That is not news. However, this feeling is. The distance from which you could study it, weight it, measure it, consider it like an outside observer. To say that you are emotionless would be a lie, there is something there, strong, hungry to be recognized… as long as it is made known.
+							#No. I don't want this. Its silly.
+								You been here before. You are sure of it. Everything living does. Being afraid. Sadly, no primal instinct to guide this fear. Its too abstract. Too modern. Guilt. Regret. Doubt.
+								
+								The distance from which you could study it, weight it, measure it, consider it like an outside observer. To say that you are emotionless would be a lie, there is something there, strong, hungry to be recognized… as long as it is made known.
 								
 								// just this once, the red require an answer, or it will never let this go. this first time, and no others. it needed to know that it still worked, as it supposed to. still being, and not just existing//
 								*goto Wrong
@@ -184,7 +200,7 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 							#Control only make me feel worse when I have to do this. Be this kind of...
 								So don't. You have the option now, right? And you have the spite for it. To say no. You hate yourself enough that you would revel in denying yourself of anything. Even this high. Its the small victories.
 								
-								//stoicism never helped before. delaying the inevitable. the fuse is cut, yes. but the core is still black. dark, like gun powder. it is meant for fire. neuter it, and what the point?//
+								//stoicism never helped before. delaying the inevitable. the fuse is cut, yes. but the core is still black. dark, like gun powder. it is meant for fire. neuter it, and what is the point of a hand grenade anymore?//
 								*goto Wrong
 												
 		It felt like the crust of a hatching egg. Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?

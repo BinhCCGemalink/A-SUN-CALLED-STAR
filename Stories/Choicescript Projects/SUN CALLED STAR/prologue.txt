@@ -26,7 +26,7 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 		 
 		//in the cracked shadow of a mirror hanging above the porcelain sink, a reflection looked back. a Door, bloodied, is hanging ajar by this creature's forehead, its knob so forbiddingly beyond approach and yet so dangerously inviting all the same//
 		
-		You pressed your finger into the hole that you carved, and watched in wonder as, one by one, your nails, then your knuckles, then your wrist disappeared unto the gap between your skull and the beyond behind it-
+		You dug your finger into the hole that you yourself carved, and watched in wonder as, one by one, your nails, then your knuckles, then your wrist disappeared unto the pit between your skull and the beyond behind it-
 		
 		…Nothing. Everything. You claw against that metaphorical Door, trying to pry the gap just a bit wider, feel the way its hinge slaps against the frame, and slip - there goes the part of yourself that stuck behind, lost to the other side.
 		
@@ -36,9 +36,9 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 		
 		[i]Room service. Must be.[/i]
 		
-		Plastic shoes meet the floor tiles. Rattling of keys. Turning of a knobs. Greetings.
+		Plastic shoes meet the floor tiles. Rattling of keys. Rusty knobs and tired greetings. Voices. Complains?
 		
-		[i]Not us.[/i]
+		//about the banging. the sounds of drilling. the screams. 
 		
 		False alarm only make you even more aware how vulnerable your current situation is - so you retreated your palm, and clenched its tight. 
 		
@@ -67,7 +67,7 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 						
 						*goto Wrong
 					#No. I am not fine. Was I ever that sort of creature?
-						A silent song sing through your veins. Not fine, then. Very not fine. But not sad, yet. Not until you will it.
+						A silent song sing through your veins. Not fine, then. Very not fine. Focused on how 
 						
 						//does it want to?//
 
@@ -116,12 +116,12 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 						
 						//of course not. but remember such things is no longer important. there not going to be- not. fuck. goddamn it. not going to be be another sofa. no more playful banter made over bad humor. arguments over the next bad movie that definitely must be watched. because it might be the last time that everyone on that sofa will ever watch it. never a time like that. ever again//
 						
-						Won't that struck fear into your heart? You… knew that anyone else in that room would have answered 'Yes'. But would you?
+						Won't that struck fear into your heart? You… knew that anyone else in that room would have answered 'Yes'. Soft. Loudly. Silently. But agreement all the same. That how they keep going. Keep winding back to the sofa together for another romcom binge. Fear of death. Theirs. Yours. Others, most of all. But could you say the same, back?
 						
 						//would the finger that pulled the trigger be afraid of where the bullet would land?//
 						
 						*fake_choice
-							#Yes. I wanted this. Person-like.
+							#Yes. I am. I supposed to. The least I could do.
 								A body like every bodies. It felt pain. It hunger. It sleeps. It wanted to live. Before love. Before thoughts. Before hope. Before awareness, even. There was fear.
 								
 								//sweat. cold, damp sweat. chills brushed by the nape of the neck. nerves boiling. choking lungs. time freezes. frantic. trapped. precious//
@@ -129,9 +129,9 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 								You are shaking. Folded, smaller and smaller, into yourself. The very image of a panic attack. The correct kind of response to this fucked up world. Realization of what you going to do to yourself. To everyone. It should have been a moment of release. Knowing what you truly, really, felt. And yet… was this too late?
 								*page_break It doesn't help. I feel so...
 							#No. I don't want this. Its silly.
-								You been here before. You are sure of it. Everything living does. Being afraid. Sadly, no primal instinct to guide this fear. Its too abstract. Too modern. Guilt. Regret. Doubt.
+								You been here before. You are sure of it. Everything living does. Being afraid. Sadly, no primal instinct to guide this fear. Its too abstract. Too modern. Guilt. Regret. Doubt. Once, you would run away from it entirely. Pretend that you do not feel them. Just like this. Except, this time, you will succeed.
 								
-								The distance from which you could study it, weight it, measure it, consider it like an outside observer. To say that you are emotionless would be a lie, there is something there, strong, hungry to be recognized… as long as it is made known.
+								Not fully, however. You are not emotionless as you'd hope. If anything, you were always the opposite of that, even if you do not like to recognize that flaw. Even now, there is something there, strong, hungry to be recognized… as long as it is made known. It is giving you that choice now. It hope you respected that chance.
 								
 								// just this once, the red require an answer, or it will never let this go. this first time, and no others. it needed to know that it still worked, as it supposed to. still being, and not just existing//
 								*goto Wrong

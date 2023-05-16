@@ -12,7 +12,9 @@
 
 [i]Ergo, you. [/i]
 
-Returned to here, to this wreck of a brain jar, this fleshlight of a body, in some dinky hotel in middle of nowhere important. With its ceiling almost pried off, dangling ceiling fan hanging like a deathtrap, the bed merely a bamboo mattress on a steel frame, and blood all over your pills. Painkillers, stashed under a shattered medical box, next to a smashed mirror in a prison box of a bathroom.
+Returned to here, to this wreck of a brain jar, this fleshlight of a body, in some dinky hotel in middle of nowhere important. With its ceiling almost pried off, dangling ceiling fan hanging like a deathtrap, the bed merely a bamboo mattress on a steel frame, and blood all over your pills. 
+
+Painkillers, stashed under a shattered medical box, next to a smashed mirror in a prison box of a bathroom. And in the aged porcelain sink, the cause of it all: a small portable drills, its point still wet with the bits of your forehead.
 
 The city is buzzing. Light bulb blinking, drowned out by the flooding midday noon. The droning static of the ancient brick of an CRT TV model. The smell of urban decay eat through your touch like day-old mold.
 
@@ -24,25 +26,25 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 	#How I looked, felt. Manual, almost. Conscious, purposeful, an act. Not just be. 
 		As if making practical joke, someone seemed to have insert an incessant amount of selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked and loose. All of them. All but one.
 		 
-		//in the cracked shadow of a mirror hanging above the porcelain sink, a reflection looked back. a Door, bloodied, is hanging ajar by this creature's forehead, its knob so forbiddingly beyond approach and yet so dangerously inviting all the same//
+		//in the cracked shadow of a mirror hanging above the porcelain sink, a reflection looked back. a Door, bloodied, hanged ajar by this creature's forehead, its knob so forbiddingly beyond approach and yet so dangerously inviting all the same//
 		
-		You dug your finger into the hole that you yourself carved, and watched in wonder as, one by one, your nails, then your knuckles, then your wrist disappeared unto the pit between your skull and the beyond behind it-
+		You dug your finger into the hole that you yourself drilled, and watched in wonder as, one by one, your nails, then your knuckles, then your wrist disappeared unto the pit between your skull and the beyond behind it-
 		
-		…Nothing. Everything. You claw against that metaphorical Door, trying to pry the gap just a bit wider, feel the way its hinge slaps against the frame, and slip - there goes the part of yourself that stuck behind, lost to the other side.
+		…Nothing. Everything. You claw against that metaphorical Door, trying to pry the gap just a bit wider, feel the way its hinge slaps against the frame, and slip - there goes the part of yourself that stuck behind, untangled and free, whirling down the stair into all other infinities…
 		
-		//somewhere, doorbell rang. was it the greeting of wayward traveler returning, or the welcoming of new visitors?//
+		//all… except this one. somewhere, doorbell rang. was it the greeting of wayward traveler returning, or the welcoming of new visitors?//
 		
 		*page_break Footsteps.
 		
-		[i]Room service. Must be.[/i]
+		[i]The landlord. Must be.[/i]
 		
-		Plastic shoes meet the floor tiles. Rattling of keys. Rusty knobs and tired greetings. Voices. Complains?
+		Plastic shoes meet the floor tiles. Keys rattlings inside shaky hands. Rusty knobs and tired greetings. Voices. Complains?
 		
-		//about the banging. the sounds of drilling. the screams. 
+		//about the banging. the sounds of drilling. the screams. all the necessary component to denote a murder in process//
 		
-		False alarm only make you even more aware how vulnerable your current situation is - so you retreated your palm, and clenched its tight. 
+		So of course, there going to be complaints to the landlord. You going to be expected to answer to her soon enough. To open the door looking fine when everything about you say the opposite. Need to fake this. Look great.
 		
-		//knocking. knocking. the Door is still hang ajar. what use is knocking now?//		
+		//knocking. knocking. the Door is still hang ajar. what use is the knocking now?//		
 		*label Wrong
 		
 		You looked at yourself. From the view point of the cracked mirror, your face seemed stuck in time. Is it cringing? Laughing? Defeated? The expression seemed… stuck.
@@ -151,7 +153,7 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 						Until you say "yes". Maybe even in your next sentence. But… you shall. Make up for all the time you couldn't before. Revenge for lost chances.
 						*goto Wrong
 					#So be it. Let it take me.
-						You want the claw. You want the teeth. You wanted the red. Rushing. Rushing. Rushing. Single. Simple. Mindlessness.
+						All everything should have been now is just white noises. And-
 						
 						//VIOLENCE//
 						
@@ -176,7 +178,7 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 						Disassociation. A word to describe this feeling. You couldn't even feel the high of adrenaline unless you opted into it. Too good. You are too good at controlling it now. Fuck.
 						
 						*fake_choice
-							#Six. Seven. Again. Again. Again. Please. Please.
+							#Six. Seven. Again. Again. Again. Until it answer me.
 								Eight. Numbing.
 								
 								//nine. the drop//
@@ -187,7 +189,7 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 								
 								[i]This is enough.[/i]
 								
-								//can't do it anymore. too irrational. still have need. still useful. this body//
+								//can't do it anymore. too irrational. still have need for this. still useful. this body//
 								
 								And so, you crashed. From the high.
 								
@@ -223,9 +225,13 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 		
 		//but then, what is next? what *does* a living thing do when it wanted to be alive? what is the proof?//
 		
+		You watched the cracked reflection of a creature looking back from the shadow of the mirror above the sink, like a prey catching the eyes of a predator, trying to make sense of what you are.
 		
+		//a Door has opened, drilled in, hanging above this creature's brow. it is a small and delicate thing, a worm's passage hidden to the fathomless hunger of a woodpecker's beak. bloody and fresh//
 		
-		//a Door has opened inside this head. it is a small and delicate thing, a worm's passage hidden to the fathomless hunger of a woodpecker's beak. provided it casted away the corporeal reminder of its flesh//
+		The proof. And so you dug, index finger thrust inside the hole that you drilled into your forehead, nails, knuckles, wrist and all slowly, like a freak magic trick, smushed into the shadow of the beyond between the gap inside your brain and its skull.
+		
+		Brushing your fingernails against that metaphorical Door, nudged between the frame and the panel, wedged between a there and a not-there, clawing for the differences 
 		
 		In. Out. The monotonous bother of staying alive. It is not that hard to conjure up the instinct that has been pre-programmed to all land-dwelling animals for billions of years. The hard part is to remember that you are supposed to do it.
 		

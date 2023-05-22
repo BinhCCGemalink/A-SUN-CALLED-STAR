@@ -42,7 +42,7 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 		
 		//about the banging. the sounds of drilling. the screams. all the necessary component to denote a murder in process//
 		
-		So of course, there going to be complaints to the landlord. You going to be expected to answer to her soon enough. To open the door looking fine when everything about you say the opposite. Need to fake this. Look great.
+		So of course, there going to be complaints to the landlord. You going to be expected to answer to her soon enough. To open the door looking fine when everything about you say the opposite. Need to fake this. Look great. Feel great.
 		
 		//knocking. knocking. the Door is still hang ajar. what use is the knocking now?//		
 		*label Wrong
@@ -223,20 +223,36 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 	#Gasp. Breathe. Forgot to do it. Not how. Just to.
 		That how living things work, right? Thinking... and goddamn breathing. It took several seconds for you to narrow down the tightening feeling around your chest to be the result of that simple mistake.
 		
-		//a shadow slouched over the sink, holding eyes with the reflection that comes in ripples bellow, as the water overflow from the broken valve, now reduced to a trickle. like the breath that comes out of the creature above it, in waves at first, now merely a shudder. alive. but then, what's next? what *does* a thing do to be alive? just breathe? what is the proof?//
+		//a shadow slouched over the sink, holding eyes with the reflection that comes in ripples bellow, as the water overflow from the broken valve, now reduced to a trickle. like the breath that comes out of the creature above it, in waves at first, now merely a shudder. alive. but then, what's next? what *does* a thing do to be alive? just breathe? the proof. what is the proof?//
 		
 		You rise, watching back as the shadow moves into the mirror-world that hanged above the sink, catching eyes to see a prey beheld its predator - trying to make sense of what you are.
 		
-		//a Door has opened, drilled in, hanging above this creature's brow. it is a small and delicate thing, a worm's passage hidden to the fathomless hunger of a woodpecker's beak. bloody and fresh, newly open and filled with splinters//
+		//a Door has opened, drilled in, hanging above this creature's brow. it is a small and delicate thing, a worm's passage hidden to the fathomless hunger of a woodpecker's beak. bloody and fresh, splinter frame dislodged from the broken-in hinge of a intruder's escape//
 		
-		The proof. You have left it behind. Shit. And so you dug, index finger first, thrust inside the hole that you drilled into your forehead - nails, knuckles, wrist and all - slowly, steadily, like a freak magic trick, smushed into the shadow of the beyond between the gap inside your brain and its skull.
+		The proof. You have left it behind. Shit. And so you dug, index finger first, thrust inside the hole that you drilled into your forehead - nails, knuckles, wrist and all - slowly, steadily, like a freak magic trick, smushed into the shadow of the beyond, wriggling in between the gap amid the sea of thoughts that resided there, inside your the content of brain-box, and the skull that contained it.
 		
 		Brushing your fingernails against that metaphorical Door, nudged between the frame and the panel, wedged between a there and a not-there, clawing for the differences between this you and the next. The proof. Where is the proof?
 		
-		//it is stuck in the steps in-between the descends. somewhere, a footstep stopped between the threshold, before rising f// 
+		//it is stuck in the steps in-between the descends. somewhere, a jiggling of keys, then a creak and a nails. the announcement a visitor approach - or is it perhaps the return of the wayward resident?// 
 		
-		In. Out. The monotonous bother of staying alive. It is not that hard to conjure up the instinct that has been pre-programmed to all land-dwelling animals for billions of years. The hard part is to remember that you are supposed to do it.
+		*page_break Footsteps.
+		The landlord. Don't panic.
 		
+		Door bell. Door bells. The sounds of rattling breaths punctuate the quietness of your own lungs. Hesitant, almost apologetic rhythm to the muffled sounds on the other end of the hallway outside. They heard.
+		
+		//all of it. the sounds of a not-so-tiny stake of metal spinning into bones. the repeated wet cracks that denote a life unmaking. a murder in the works//
+		
+		In. Out. The monotonous bother of staying alive. It is not that hard to conjure up the instinct that has been pre-programmed to all land-dwelling animals for billions of years. The hard part is to remember that you are supposed to do it. After that. All that.
+		
+		//keys. keys. keys. nothing fit. the Door is out of its hinge. broken from the impact, knob stuck in middle of its turn. what use is a key now?//
+		
+		Something caught your eyes in the shadow. A reflection looked back, eyes unblinking in its forgetfulness, chest still and cold blooded. What even is this?
+		
+		A coffin. No. A vehicle. A machine in which the break has fail and the pedal stuck tight to the floor, the wheel abandoned and the driver now stuck frozen helplessly watching the coming crash. Someone has to grab the wheel. A swerve. Not because that will help you. No. Its because you… are not even sure if anything is going to stop this thing in motion. Collateral damage is the priority, here.
+		
+		*fake_choice
+			#My heart. it is not beating.
+				Yet your blood still warm. It still flows. A rat roads 
 		//this existence is a mistake. but it is a goddamn stubborn mistake. it will live. it will torture itself alive. it will say fuck you to everyone within a light year away from this location up and including itself and every other selves. it is spiteful like that//
 		
 		The arrogance. The defeatism. The stank of lost dreams and failure. This choking feeling as you look out to the tiny bathroom window, where hazy summer light felt like watching a light at the end of a tunnel. All so… goddamn familiar.

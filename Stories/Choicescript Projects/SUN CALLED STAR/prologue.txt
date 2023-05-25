@@ -233,14 +233,14 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 		
 		Brushing your fingernails against that metaphorical Door, nudged between the frame and the panel, wedged between a there and a not-there, clawing for the differences between this you and the next. The proof. Where is the proof?
 		
-		//it is stuck in the steps in-between the descends. somewhere, a jiggling of keys, then a creak and a nails. the announcement a visitor approach - or is it perhaps the return of the wayward resident?// 
+		//it is stuck in the steps in-between the descends. somewhere, a jiggling of keys, then a creak and a nail. the announcement a visitor approach - or is it perhaps a turn of the wayward resident?// 
 		
 		*page_break Footsteps.
 		The landlord. Don't panic.
 		
 		Door bell. Door bells. The sounds of rattling breaths punctuate the quietness of your own lungs. Hesitant, almost apologetic rhythm to the muffled sounds on the other end of the hallway outside. They heard.
 		
-		//all of it. the sounds of a not-so-tiny stake of metal spinning into bones. the repeated wet cracks that denote a life unmaking. a murder in the works//
+		//all of it. the sounds of a not-so-tiny stake of metal spinning into bones. the repeated wet cracks that denote a life unmaking. the stiffen sound of a murder in the work//
 		
 		In. Out. The monotonous bother of staying alive. It is not that hard to conjure up the instinct that has been pre-programmed to all land-dwelling animals for billions of years. The hard part is to remember that you are supposed to do it. After that. All that.
 		
@@ -248,11 +248,20 @@ You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. 
 		
 		Something caught your eyes in the shadow. A reflection looked back, eyes unblinking in its forgetfulness, chest still and cold blooded. What even is this?
 		
-		A coffin. No. A vehicle. A machine in which the break has fail and the pedal stuck tight to the floor, the wheel abandoned and the driver now stuck frozen helplessly watching the coming crash. Someone has to grab the wheel. A swerve. Not because that will help you. No. Its because you… are not even sure if anything is going to stop this thing in motion. Collateral damage is the priority, here.
+		A coffin. No. A vehicle. A machine in motion, of which the break has fail and the pedal stuck tight to the floor, the wheel abandoned and the driver now stuck frozen helplessly watching the coming crash. Someone has to grab the wheel. Swerve it to crash. Not because that will help you. No. Its because you… are not even sure if anything is going to stop this thing from getting what it wanted. Collateral damage is the priority, here.
 		
 		*fake_choice
 			#My heart. it is not beating.
-				Yet your blood still warm. It still flows. A rat roads 
+				Yet your blood still warm. It still flows. A rat roads of veins map through the contents of your lungs to the muscle of your limbs, speeding through the precious oxygen that keep this machine in motion. Flood your brain with the fluid of life. What is this?
+				
+				//agents of their own. not truly living, but not merely rudimentary chemical reaction in the work. the body is dead. the body wanted to be alive. the cell has chosen to listen to the will of the latter, than the rule of the former. no mere physics can stop them now//
+				
+				But you can. These cells are kind. They are soft. A hive mind of tiny, living things that known no better, so that they only love you. They don't even love themselves. But they could love… you.
+				
+				//even if the very creature in question do not//
+				
+				Your heart started beating again. They known you are disturbed by that. They are sorry. Merely infant to the whole consciousness thing. No moral, no emotion, no decade of 
+		
 		//this existence is a mistake. but it is a goddamn stubborn mistake. it will live. it will torture itself alive. it will say fuck you to everyone within a light year away from this location up and including itself and every other selves. it is spiteful like that//
 		
 		The arrogance. The defeatism. The stank of lost dreams and failure. This choking feeling as you look out to the tiny bathroom window, where hazy summer light felt like watching a light at the end of a tunnel. All so… goddamn familiar.

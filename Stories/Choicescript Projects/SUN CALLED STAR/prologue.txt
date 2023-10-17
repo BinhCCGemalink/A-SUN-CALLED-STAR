@@ -1,556 +1,80 @@
+[i]In the darkness of the room, something like us stood in the shallow of a flood.[/i]
 
+[in Darkened Depth, Behold]
 
-[b]A GOD'S CONSENTED, A DOG'S CROWNED, A WOLF'S CRAVING[/b]
+The saddened reflection of a creature oh so horrid.
 
-[i]The corpse stands. No more.[/i]
+[i]Of a forehead battered, of a mind concaved, leaking red by the reason.[/i]
 
-[i]The reflection is clear. The mirror is not there.[/i]
+[louder. just Loud. these are Reasons to be Loud]
 
-[i]The reason is loud. There is no reason.[/i]
+There is no reason.
 
-//no such silence. a thing rouse from its slumber. a mistake. the knocking of a visitor. the welcome back of a home's resident. Cognito, ergo sum -therefore…//
+[Emergency Boot - - - 97%]
 
-[i]Ergo, you. [/i]
+[i]No such silence.[/i]
 
-Returned to here, to this wreck of a brain jar, this fleshlight of a body, in some dinky hotel in middle of nowhere important. With its ceiling almost pried off, dangling ceiling fan hanging like a deathtrap, the bed merely a bamboo mattress on a steel frame, and blood all over your pills. 
+[System Readings - - - 0.45%]
 
-Painkillers, stashed under a shattered medical box, next to a smashed mirror in a prison box of a bathroom. And in the aged porcelain sink, the cause of it all: a small portable drills, its point still wet with the bits of your forehead.
+Heart beat knocking colder in dead flesh.
 
-The city is buzzing. Light bulb blinking, drowned out by the flooding midday noon. The droning static of the ancient brick of an CRT TV model. The smell of urban decay eat through your touch like day-old mold.
+[…dusting feet on a new welcome mat]
 
-[i]Something... off. About you. About me. About us.[/i]
+[i]Opening doors, turning knobs.[/i]
 
-You shuddered. You all shuddered. Collectively. Wrong, so wrong. Not adding up. You. The sum of you are not adding up. Blood on your face. Destruction marred your placid expression. What part of you died from the repeated impact?
+[Wake Me Up]
 
-*fake_choice
-	#How I looked, felt. Manual, almost. Conscious, purposeful, an act. Not just be. 
-		As if making practical joke, someone seemed to have insert an incessant amount of selves into the middle of your thought. They came out knocking. Knocking. Knocking. Until it cracked and loose. All of them. All but one.
-		 
-		//in the cracked shadow of a mirror hanging above the porcelain sink, a reflection looked back. a Door, bloodied, hanged ajar by this creature's forehead, its knob so forbiddingly beyond approach and yet so dangerously inviting all the same//
-		
-		You dug your finger into the hole that you yourself drilled, and watched in wonder as, one by one, your nails, then your knuckles, then your wrist disappeared unto the pit between your skull and the beyond behind it-
-		
-		…Nothing. Everything. You claw against that metaphorical Door, trying to pry the gap just a bit wider, feel the way its hinge slaps against the frame, and slip - there goes the part of yourself that stuck behind, untangled and free, whirling down the stair into all other infinities…
-		
-		//all… except this one. somewhere, doorbell rang. was it the greeting of wayward traveler returning, or the welcoming of new visitors?//
-		
-		*page_break Footsteps.
-		
-		[i]The landlord. Must be.[/i]
-		
-		Plastic shoes meet the floor tiles. Keys rattlings inside shaky hands. Rusty knobs and tired greetings. Voices. Complains?
-		
-		//about the banging. the sounds of drilling. the screams. all the necessary component to denote a murder in process//
-		
-		So of course, there going to be complaints to the landlord. You going to be expected to answer to her soon enough. To open the door looking fine when everything about you say the opposite. Need to fake this. Look great. Feel great.
-		
-		//knocking. knocking. the Door is still hang ajar. what use is the knocking now?//		
-		*label Wrong
-		
-		You looked at yourself. From the view point of the cracked mirror, your face seemed stuck in time. Is it cringing? Laughing? Defeated? The expression seemed… stuck.
-		
-		Wrong, so wrong, an incorrect answer to an open question, mockingly so. You felt the need to correct it. Fill in the blanks, make it natural somehow. What now?
-		*fake_choice
-			#Tears. There should have been tears in my eye. I am not fine. Not fine.
-					Is that what *people* do when they are sad? Are you sad? You remember what they do. The motion of feeling it. Are there shaking in your chest? Are you shaking? Are you numb? Hollow? 
+Bring you out.
 
-					No. You are just fine. that has always been the case. This feeling that you are trying to make sense of, whatever it is, has been there from the start, like a second skin. It been there when you smile. When you are angry. When you are content. 
-					
-					//the default state of matter. nothing fancy. nothing intriguing. just there//
-					
-					No one would give a name to the default state of something. A name like 'sadness' or 'grieve'. Too dramatic. Or meaningful. There is nothing like that here. Just there. Just here. Just fine.
-					
-					//is it? is the reflection looking back truly *just* fine?//
-				*fake_choice
-					#Yes. I am fine. I must.
-						No. You are not. But this could have been something else. Perhaps even a blessing. Who would choose being sad, when there so much more… productive emotion out there? Like…
-						
-						//happiness is not a choice, here. it won't appear. no one felt that on cue. at least, not this creature. but it is useless, any way. where this story going to go, being happy is a burden//
-						
-						*goto Wrong
-					#No. I am not fine. Was I ever that sort of creature?
-						A silent song sing through your veins. Not fine, then. Very not fine. Focused on how 
-						
-						//does it want to?//
+[ERROR 621: DATA EXPUNGED]
 
-						*fake_choice
-							#Yes. I am stuck. I needed this.
-								Relief. A way out. Just this once. Alright, the mechanism of it is familiar to your flesh. They could be recall. Muscle can learn. All the *sad* bits of chemicals and hormones at your brain disposal, ready to be dumped to fish for a *genuine* reaction to it all at a moment notice. At least, that the hope. Right?
+[i]Failure discarded.[/i]
 
-								//tears rolling down. choking chest. hand shanking, finger white at tip, how it gripping at your flesh. a numbness that is worthy of longing from singers and poets alike//
+[Cognito, Ergo Sum - therefore]
 
-								The motion is made. Is that enough? Truly?
-								*page_break It doesn't help. I feel so...
-							#No. Perhaps that is not what I want?
-								You felt it. Something… dwelling within your head, rising… but not urgent. Just there, ambient background noise to the thoughts and the pain and all the touch the smell the sound of it all. So wanting. Devouring. But patient. 
-								
-								//fake, in a way, because that is not how a *person* should feel emotion, but-//
-								
-								But you do. Like reading a math problem: finding X, knowing Y is the result of this equation that is you. The curse of choices. Without summoning the chemicals, the reflexes, and the memory of it…
+Ergo, you.
 
-								//who to say this feeling is even sadness to begin with?//
-								*goto Wrong
-			#Dread. I should be in crying or... something? No one should be sane after this.
-				Your thoughts are measured and carefully arranged. No rush. No confusion. No rush of the fight or flight mechanism rolled into every models of animals that walk this earth. Just…
-				
-				//wet trails stroke the sting where red touched the air. face's a mess. aches with cuts. nose smashed. jolt between wincing breath//
-				
-				It hurts, judging by the damage. So serene a thought that was. It hurts so fucking bad. You felt nothing at all.
-				
-				//nothing at all. nothing at all. nothing at all.//
-				
-				*fake_choice
-					#Stop. No. Don't joke about this.
-						//about this stupid sexy hemorrhaging blunt force trauma?//
-						
-						You don't even like Family Guy.
-						
-						//that's not- never mind. this conversation is already moronic enough…// 
-						
-						Least some part of you could still recognize humor. If only as a distraction from that nagging, tugging feeling behind that ephemeral *something more*.
-						*goto Wrong
-					#Am I... afraid of admitting this? Deflecting it with...?
-						//it was an ill attempt at humor. there is that South Park episode where they have the big fat do nothing father going skiing? and there is this neighbor of his dressed in tight red speedo?//
-						
-						You can't even make sense of… whatever the hell you are, supposed to be, or… fuck. But you remember this.
-						
-						*page_break It was not South Park, I think.
-						
-						//of course not. but remember such things is no longer important. there not going to be- not. fuck. goddamn it. not going to be be another sofa. no more playful banter made over bad humor. arguments over the next bad movie that definitely must be watched. because it might be the last time that everyone on that sofa will ever watch it. never a time like that. ever again//
-						
-						Won't that struck fear into your heart? You… knew that anyone else in that room would have answered 'Yes'. Soft. Loudly. Silently. But agreement all the same. That how they keep going. Keep winding back to the sofa together for another romcom binge. Fear of death. Theirs. Yours. Others, most of all. But could you say the same, back?
-						
-						//would the finger that pulled the trigger be afraid of where the bullet would land?//
-						
-						*fake_choice
-							#Yes. I am. I supposed to. The least I could do.
-								A body like every bodies. It felt pain. It hunger. It sleeps. It wanted to live. Before love. Before thoughts. Before hope. Before awareness, even. There was fear.
-								
-								//sweat. cold, damp sweat. chills brushed by the nape of the neck. nerves boiling. choking lungs. time freezes. frantic. trapped. precious//
-								
-								You are shaking. Folded, smaller and smaller, into yourself. The very image of a panic attack. The correct kind of response to this fucked up world. Realization of what you going to do to yourself. To everyone. It should have been a moment of release. Knowing what you truly, really, felt. And yet… was this too late?
-								*page_break It doesn't help. I feel so...
-							#No. I don't want this. Its silly.
-								You been here before. You are sure of it. Everything living does. Being afraid. Sadly, no primal instinct to guide this fear. Its too abstract. Too modern. Guilt. Regret. Doubt. Once, you would run away from it entirely. Pretend that you do not feel them. Just like this. Except, this time, you will succeed.
-								
-								Not fully, however. You are not emotionless as you'd hope. If anything, you were always the opposite of that, even if you do not like to recognize that flaw. Even now, there is something there, strong, hungry to be recognized… as long as it is made known. It is giving you that choice now. It hope you respected that chance.
-								
-								// just this once, the red require an answer, or it will never let this go. this first time, and no others. it needed to know that it still worked, as it supposed to. still being, and not just existing//
-								*goto Wrong
-			#Scream? Do something stupid? Hurt someone... anyone? Me, most of all?
-				Destruction. Rage. Violence. A well-worn tool, that impulse, one that you are used to, honed to a fine edge but now feel so out of depth in. Somehow, the fuse been cut out of you - no, not quite. It still there, the restlessness, the hatred, the drive. But it won't bite. Won't ignite. Not on cue, anyway. Or rather, only on cue? Deliberate consideration is asked of you. Slot in the key, rev the engine, let go of the wheel. How very much the opposite of what *anger* supposed to be.
-				
-				Alien, this request. Dangerous. These instincts are old. They are comforting. You have always been proficient at lashing out. At yourself. At them. Everyone. That how you kept going. 
-				
-				//and now, it get to say no. the metaphorical act running in the hall with a finger hovering over the trigger of a loaded shotgun, never pulling back. Is that smart? Is it even… possible? sustainable?//
-				
-				*fake_choice
-					#I have enough of being angry.
-						Even if you know that this couldn't last.
-						
-						//it is truly a *choice* now, isn't it? one that is and will be asked, over, and over and over and over and over again, until-//
-						
-						Until you say "yes". Maybe even in your next sentence. But… you shall. Make up for all the time you couldn't before. Revenge for lost chances.
-						*goto Wrong
-					#So be it. Let it take me.
-						All everything should have been now is just white noises. And-
-						
-						//VIOLENCE//
-						
-						Your fist cracked the shattered mirror, where your head didn't finish the smash.
-						
-						//once//
-						
-						An impact that numb your very bone. Then…
-						
-						/twice. jagged edge//
-						
-						Thrice. Blunt cut.
-						
-						//four. crack red//
-						
-						Five. Breaking.
-						
-						Felt right. Hurting yourself. Hurting the enemy. Clarity of purpose. Washing it all away. The only regret here is…
+*page_break [Welcome Back, Operator]
 
-						//dopamine. serotonin. norepinephrine. all that jazz… and more. dependable, nice and good. well, used to be, because…//
-								
-						Disassociation. A word to describe this feeling. You couldn't even feel the high of adrenaline unless you opted into it. Too good. You are too good at controlling it now. Fuck.
-						
-						*fake_choice
-							#Six. Seven. Again. Again. Again. Until it answer me.
-								Eight. Numbing.
-								
-								//nine. the drop//
-								
-								Pain, pain sharper than the ambient aches. More blunt than the paralyzing wounds that salt your ruined face. Even if it make you feel terrible. For accepting. Agreeing to be this sort of… thing.
-								
-								[i]No.[/i]
-								
-								[i]This is enough.[/i]
-								
-								//can't do it anymore. too irrational. still have need for this. still useful. this body//
-								
-								And so, you crashed. From the high.
-								
-								The high. It never made you feel less like a shit. You still feel like shit. But it made you felt powerful. IN CONTROL. So in control that you could take it. The abuse. The pain. The will to keep doing it.
-								
-								Now, you could see it. Decide it. And this just make you felt bad for yourself. You see pain in the reflection that watched you through those cracked mirrored eyes, and…
-								
-								//that creature needed a hug, it thought//
-								*page_break It doesn't help. I feel so...
-							#Control only make me feel worse when I have to do this. Be this kind of...
-								So don't. You have the option now, right? And you have the spite for it. To say no. You hate yourself enough that you would revel in denying yourself of anything. Even this high. Its the small victories.
-								
-								//stoicism never helped before. delaying the inevitable. the fuse is cut, yes. but the core is still black. dark, like gun powder. it is meant for fire. neuter it, and what is the point of a hand grenade anymore?//
-								*goto Wrong
-												
-		It felt like the crust of a hatching egg. Your head felt like the crust of a hatching egg. The whole room seemed to sway around the nook of your eyes. Hatching… to what, exactly?
-		 
-		//the egg did not hatch. rather, it unhatched, then leaks and leaks and leaks itself through a crack made in its retreat from the world, out of this shell is the white of a being's substance: where sensations by sensations - that which is the protective individuality to nurture a mind's yolk - bleed out in forgotten memories. to go on living like this is like to read a diary only by its description, and none of its meaning//
-		 
-		Burst of red and blue bubbles and pop as your vision blurs and clears. This room. This resentment of yourself. This feeling of… inadequacy. This frustration that you can place, but so hard to admit. The freedom. Ultimate freedom of it. Of this. Why, now of all time, where you have the most control over your fate, does it feel so claustrophobic?
-		
-		//it is horny. sex. replication. repetition. biological. alive. wanting. longing. denied. disgusting. evil//
-		
-		Of all the feeling, the oldest one sticked. The worst one. The one that species, not individuals, lived for. Is that it? For this!?
-		
-		//so debased a creature this one, that even in the face of cosmic fucking horror does it still wanted to fuck something//
-		
-		All of this… self-hatred. Is just so… goddamn familiar.
-		 
-		*page_break Dejva Vu...
-	#Gasp. Breathe. Forgot to do it. Not how. Just to.
-		That how living things work, right? Thinking... and goddamn breathing. It took several seconds for you to narrow down the tightening feeling around your chest to be the result of that simple mistake.
-		
-		//a shadow slouched over the sink, holding eyes with the reflection that comes in ripples bellow, as the water overflow from the broken valve, now reduced to a trickle. like the breath that comes out of the creature above it, in waves at first, now merely a shudder. alive. but then, what's next? what *does* a thing do to be alive? just breathe? the proof. what is the proof?//
-		
-		You rise, watching back as the shadow moves into the mirror-world that hanged above the sink, catching eyes to see a prey beheld its predator - trying to make sense of what you are.
-		
-		//a Door has opened, drilled in, hanging above this creature's brow. it is a small and delicate thing, a worm's passage hidden to the fathomless hunger of a woodpecker's beak. bloody and fresh, splinter frame dislodged from the broken-in hinge of a intruder's escape//
-		
-		The proof. You have left it behind. Shit. And so you dug, index finger first, thrust inside the hole that you drilled into your forehead - nails, knuckles, wrist and all - slowly, steadily, like a freak magic trick, smushed into the shadow of the beyond, wriggling in between the gap amid the sea of thoughts that resided there, a step sideway from the content of that brain-box, and the skull that contained it.
-		
-		Brushing your fingernails against that metaphorical Door, nudged between the frame and the panel, wedged between a there and a not-there, clawing for the differences between this you and the next. The proof. Where is the proof?
-		
-		//it is stuck in the steps in-between the descends. somewhere, a jiggling of keys, then a creak and a nails. the announcement a visitor approach - or is it perhaps the return of the wayward resident?// 
-		
-		*page_break Footsteps.
-		The landlord. Don't panic.
-		
-		Door bell. Door bells. The sounds of rattling breaths from steps of the stair only punctuate the quietness of your own lungs. Hesitant, almost apologetic muffled voices greet the loud complains from the hall outside. They heard.
-		
-		//all of it. the sounds of a not-so-tiny stake of metal spinning into bones. the repeated wet cracks that denote a life unmaking. a murder in the works//
-		
-		In. Out. The monotonous bother of staying alive. It is not that hard to conjure up the instinct that has been pre-programmed to all land-dwelling animals for billions of years. The hard part is to remember that you are supposed to do it. After that. All that.
-		
-		//keys. keys. keys. nothing fit. the Door is out of its hinge. broken from the impact, knob stuck in middle of its turn. what use is a key now?//
-		
-		Something caught your eyes in the shadow. A reflection looked back, eyes unblinking in its forgetfulness, motionless in its shivering. What even is this thing?
-		
-		*fake_choice
-			#A machine. A vehicle. 
-				
-		//this existence is a mistake. but it is a goddamn stubborn mistake. it will live. it will torture itself alive. it will say fuck you to everyone within a light year away from this location up and including itself and every other selves. it is spiteful like that//
-		
-		The arrogance. The defeatism. The stank of lost dreams and failure. This choking feeling as you look out to the tiny bathroom window, where hazy summer light felt like watching a light at the end of a tunnel. All so… goddamn familiar.
-		*page_break Dejva Vu...
-	#Smash my head against the sink. Just to be sure. Be sure of... what?
+Welcome back, to this wreck of a brain jar.
 
-[i]We have been here before. Another life. Another existence. Perhaps we could have stayed here, between these faded chalk walls and rot away into nothingness.[/i]
+[this fleshlight of a body]
 
-And the heat. Oh god, the heat. A small fan click click click clicking in the corner, blade fraying the wind. It only make this tiny bathroom you are in felt like a steamer.
+…waking up to some dinky hotel in the middle of nowhere. With its ceiling almost pried off, dangling ceiling fan hanging above your head like a deathtrap, the bed merely a bamboo mattress on a steel frame, and blood all over your pills. 
 
-But worst of all is the endless sigh of the cicadas, a constant blaring of the most nonsensical, the most overbearing, the most blindingly of white noises that threaten to blank out the clinging mote of consciousness that you tried so damn hard to inserted back into this body.
+Painkillers, stashed under a shattered medical box, next to a smashed mirror in a prison box of a bathroom. And in the aged porcelain sink, the cause of it all: a small portable drills, its point still wet with the bits of your forehead. 
 
-[i]Among the apes, yet again.[/i]
+The mere sight of it salt the tip of your tongue.
 
-*fake_choice
-	#To wear their skin, yet again.
-		[i]Regretfully, you are not wearing it this time. It wil be wearing you.[/i]
-		
-		Your corpse hushed these words between its empty lungs.
-		
-		[i]Everything was for the apes. Every god damn thing. The sacrifice. The mutilation. The self-loading. The way they could just exist, and some how the quantity of them justify us having to invite that goddamn Door into our heads and…
-		
-		You felt a choking of something much worse than regret inside your lungs. It was disappointing to find out that it wasn't hatred. You couldn't hate all of them, after all.  Ten billion people? Three billion, then, after Fantasia. And you so readily willing to betray everyone you once loved, and everything you once loved also ready to do it to you in return to just… a number. The purity of it. Three billion humans.
-		*page_break Where is-
-	#Grit your teeth and choke on it, with fury and breathlessness.
-		[i]C'mon now, breathe. Don't be like me. Dying cause one hell of a constipation. Not like you could die, anyway.[/i]
-		
-		These words drawl between chattering white teeth, a grimace set on your own corpse. 
-		
-		[i]Would be kinda funny, though - in a pathetic sorta way - pointless all the same, a damn shame that. We don't have an audience for such kinda drama, so - Wait… no, no no no, keep doing that, they are reading us.[/i]
-		
-		You grip tighten at the mention of that voyeuristic gaze, the knowledge that a stranger is intruding on the most private thing any creature could have… and then, you breathe. It gaze has moved on to another sentence.
-		*page_break Where is-
-	#Is it to late, now, to go back? For regret?
-		[i]You know the answer to that. The least you could say is a *thank you*, thank you very much. Mariticide is not easy to do, you know.[/i]
-		
-		Your corpse trailed off into silence after it has practically barked out these words.
-		
-		[i]Beside, do you wager that I could…. live with myself, after making you? Making this decision? What happen then, if Quinn forgive us? Would you - me, be able to accept that? Forgiveness?[/i]
-		
-		For a moment, silence. There is an answer to that. No. So. Let's move on.
-		*page_break Where is-
+*page_break Where am I?
 
+[i]The city is buzzing. Light bulb blinking, drowned out by the flooding midday noon. The droning static of the ancient brick of an CRT TV model. The smell of urban decay eat through your touch like day-old mold.[/i]
 
-The CRT TV flicked on. Something about a Silicon Valley market crash. Local language - your mother's tongue.
+[Off. so Off. Off our game. Off this world. Off our head]
 
-*page_break Ah. Right.
+The CRT TV flicked on. Something about a Silicon Valley market crash. Vietnamese.
+
+[i]Someone's mother tongue.[/i]
+
+[ours]
 
 Its 26 of June, 2022, near the border between Vietnam and Laos, an hour away from Da Nang city.
 
-Ten years ago. You had just ran away from your home.
-
-[i]Hey now. Don't get too nostalgic, me. We have… work to do. But first, look at me. I won't be able to… materialize if we don't.[/i]
+[ten years ago. we had just ran away from home]
 
 A slump, and a wet bang on the cheap porcelain tub. Something heavy and soft cracked its head on the uneven wall beside you, kneeling over in the tub. A splash of water jolted you up from your reverie.
 
 You don't even need to look to know whose corpse that was.
 
-[i]Yours.[/i]
+[ours]
 
-//once again it whispered, one mistake to another//
+[i]Once again, it whispered, one mistake to another.[/i]
 
-[i]Disappointed?[/i]
+[disappointed?]
 
 *page_break Vomit
 
 A great worm of vertigo crept up from behind your ear lobes. A throbbing migraine that is neither from the left nor right, back nor forth, but an hidden, non-existent, fifth horizontal direction of the brain.
 
-[i]Don't shake ours head too much, or it will pour out. The brain stuff, not the vomit. Us. Don't want to be a voyaging thoughts after all this effort.[/i]
+String of nothing creak slip free between your teeth and your tongue to clog the sink. Sour, not salty. You are hungry. Your eyes sting. You haven't slept for days. Their tear ducts are as empty as the content of your stomach.
 
-*if (brainPour)
-	//gone over it already. remember? that head is already thought-empty enough. Door. bottled water. brain jar. spilling out all over, no cap//
-	*goto vomit 
-*else
-	//there is a gate hanging ajar inside this head. Imagine the trick those college frat boy used to do with a beer can? Pop a hole into the middle of it and suck out the juice like a god damn vampire? now imagine what is the beer can in this scenario//
-	*goto vomit
-
-*label vomit
-
-The sourness linger, even as whatever lunch this newer, past body of yours let go of the lovingly dissolved… junk food?
-
-[i]God, eat better shit. At least get some green.[/i]
-
-*fake_choice
-	#Oh, I wasn't aware that we suddenly love ourselves now.
-		//could feel the love already. just so god damn wholesome this is. one mother of all epiphany is happening right now in this dinky ass bathroom uttered by a creature that seemingly just exist for its self torment. just eat better. easy peasy//
-		
-		You have a feeling that whatever you are, it is very very defensive about its own eating habit.
-		*page_break Hold on, it coming again...
-	#
-
-It clogged the broken sink as much as it clogged your throat, and the sight of it only send your stomach to revolting disagreement with what it is enthusiastically doing.
-
-//a perfect metaphor for this whole mess//
-
-*page_break What... exactly happened?
-
-Your body is trying orient itself. 
-
-[i]Time travel, as expected, is not a leisurely trip. [/i]
-
-With a hand free, sloppy with regurgitated… whatever that is, you pulled yourself free of the floor, to stand - stood, shaky still, but you are used to shaky, defiantly defying gravity itself, feet cutting on the fragment of the broken mirror that once hanged there above the sink. 
-
-//someone has been breaking their head a little bit too enthusiastically on it, before the current scene was set and possibly killed themselves in doing so//
-
-*page_break Let me guess, me?
-
-//ding ding ding//
-
-[i]Dying is not very neat, as I obliviously demonstrated. You die, I died, we all died. The bad thing about copy pasting one reality to another is that the, well, pasting… the present already got a driver behind the wheel. We need that dumb ass to get off the ride before we could… pitch in on the steering wheel. So. Kill the driver. And… the previous ride - we, well. Left it there on the tub.[/i]
-
-//it is still alive, if one count being alive as moving and broadcasting random thoughts to annoy the living-//
-
-[i]Hey![/i]
-
-*page_break Do I always fight myself this passionately?
-
-Yes you do. This felt practiced. Like that reality TV where a guy talk to a coconut with a smiley face because he was stuck on an abandoned island sort of madness.
-
-//but, anyway, that body still moving is only because of the implants. sorta like a drone, of sort, reacting to the Door and the thoughts that is currently leaking out of it. a meat puppet//
-
-[i]What do you know now, all the objectifying shit we made ourselves to be? All true now. Hurray. Being right never felt this bad. Worse if you are still a single line of intrusive thought stuck in a dying meat puppet.[/i]
-
-*page_break A meat puppet, huh?
-
-That forced to gaze upon the corpse again. Your corpse. It now laying there, in the tub, while you standing here gawking at it. Its knees are banging against each other, its nails seem to lengthen with every moment that passes, its thoughts so sour and relentlessly mocking.
-
-//once spent, the vehicle and the fuel for this trip back in time is to be rendered useless - at least not useful in sustaining a still living thought, such as this one - and the only function left for this bag of meat is a reminder of one's failure to-//
-
-[i]Time travel, baby![/i]
-
-*page_break There no such things as time travel.
-
-[i]'Only violent take over of the past.'[/i]
-//- DiVencenzo, C.H. et al. (2024). Overcoming Information Decay: Pseudo-Supersymmetry and Control of Two-Level Systems. p. 134//
-
-Your forehead aches. A moment of dizziness took over your balance, as you FELT a breeze touching the soft, folding crease of that big, pink ball of uneven fat behind your skull. Instinctively, you touched it.
-
-[b]CLANK[/b]
-
-A small bolt, bloody, roll into the sink, leaving behind one 'sinking' feeling around where your finger is, something like a cave-in between the flesh and the bone, where the sunken and crunchy crust of the skull could be felt around a tiny hole, drilled onto your forehead.
-
-//the Door is much more… physical than metaphorical. more like a hole, really. but, well, can't blame the carpenter, was a pretty shit one for the task at hand//
-
-A flash of yourself appeared in the mirror as the rush of… whatever emotion that was approached, and suddenly, is halted and snapped away before the grimace could be formed on your face. Leaving only an almost-twenty something looking back at you, with hazy eyes.
-
-[i]We have forgotten the feeling of having eyes. Damn implants. But seeing ourselves not having sunglasses on to hide it felt wrong. Some how.[/i]
-
-*fake_choice
-	#Oh god. So I've always looked like shit. Even before the goddamn implants.
-		[i]Could be worse. You could look like me. Oh, wait. Never mind. You already did.[/i]
-		
-		//smart ass//
-	#Could be worse. Still look somewhat like a face.
-		[i]We have always had very low standard on these things, didn't we?[/i]
-		
-		//maybe a little bit more skin on those gashing cut, perhaps//
-	#'Almost dead, broken nose and bloody face' could be the next fashion statement.
-		[i]The catwalk will never expect us. Until they call the police, that is.[/i]
-		
-		//might come in handy when one would want to infiltrate a zombie horde or a group of thirty to fifty clowns - of the very sad variery//
-
-Either way, bandage yourself first, just in case. People are particularly jumpy about the half-dead walking the street.
-
-//thank god this is not Texas… again. those yehaw dumbasses shoot anything that move, much less a zombie-looking motherfucker//
-
-[i]Quinn was a Texan. About the only one we could tolerate, and would still try to shoot our head off when we met, so… Oh well. Like what you see in the mirror? Cost one hell of a price tag for that brand new swag.[/i]
-
-- your future-self said, yellow-ish drool slosh, splashing into the tub with a clocking rhythm as they spilled out drop by drops from the corner of its cold dead lips. A large patch of pinkish flesh that run from the edge between its left ear and its temple, all the way down to the tip of its chin, claiming one-third of its lips in the process.
-
-*page_break …Alright then.
-
-//one hell of a scar, there//
-
-That the one that started it all.
-
-One that you have not come to possess... yet. The you now, as far as you could make out from the reflection peering back at you from a million shards of mirror, is rather... mundane. Younger. Softer. Somewhat more punchable.
-
-//who fucking care, get one with it. everyone know what must come next. what is it again? denial. guilt. anger//
-
-*fake_choice 
-	#I've killed my past, and move past it. //Laugh and choke on it, again, and again, a monster of its own making//
-		[i]Yeah yeah go insane if that suit the mood, just do it quickly so we can move on from this dump.[/i]
-		*page_break There. I had my moment. Lets... get on with it.
-	#I've killed my past, and move past it. //Scream, cry, smash the sink, a long line of mistake in the making//
-		[i]Hold your horse there, partner. Ya'll going to die with that attitude, and we can't both be dripping wet corpse. Who going to pay for the dry cleaner?[/i]
-		*page_break There. I had my moment. Lets... get on with it.
-	#I've killed my past, and move past it. //Unquiet stoicism shimmer beneath the flesh-mask, and deny this emotion//
-		[i]If only it is that easy. If only. We are going to riding-on-rail the shit out saving the world by this point, it all felt inevitable. But do not ever deny this grief. It is the only good thing that remind us that we once… have better days.[/i]
-		*page_break There. I had my moment. Lets... get on with it.
-
-Your thumb circle around that hole in the middle of your forehead, before pressing inside.
-
-No pain. Deeper, then, until the hole engulf the entirety of your thumb, and even then you felt you could push deeper and deeper still, until you, you as a being could disappear into yourself  it like some sort of Ouroboros.
-
-//a Door, as genuine as they come. once in a kind, until now. a Beyond. at this very place in time. in this very part of history. localized entirely within the content of a hole in a deranged shitstain's forehead//
-
-[i]Let try NOT  to stand so close to our corpse while we play with the newborn Gate, lest this consciousness be sucked back into that wreck of a body, and waste all this effort for nothing. AGAIN.[/i]
-
-A splash of water. You jolted.
-
-*page_break It lung at me.
-
-The corpse shuddered once more, and bite at nothing in the air, before swiping space-time itself dangerously close the sink you are standing. A freak streak of reality dragged on from where it hand were, the result difficult to describe or comprehend: 
-
-Imagine, if this bathroom has been meticulously recreated in clay, a diorama, if you would. Then a finger stretched out, gouge at a piece of the clay, for demonstration sake let say the spot between the tub and the sink, and smear the clay all over. The chair. The light. Space. Time. The floor. All mushed together with a tingle of what behind the essence of the clay. Something at a layer bellow reality itself.
-
-//if one peer into that tiny bathroom, shadow of a humanoid… thing could be seen, its thumb jammed into its skull like a freak magic trick, while in the tub a corpse keep jerking itself awake as if death and space-time is merely a badly worded question. very comedic.//
-
-So that's it. It worked.
-
-*fake_choice
-	#I found the murder object.
-		[i]Kinda oblivious, given it fall out of your head. It was clear that the bolt was placed and held onto the mirror so that after the first struck of the head, friction will help it stay there for the repeating nailing-to by your past-self.[/i]
-	#Wait, how the hell...
-		[i]Lacking a hammer or any useful tool leave little option. The bolt was placed and held onto the mirror so that after the first struck of the head, friction will help it stay there for the repeating nailing-to by your past-self.[/i]
-	#No cleaner way?
-		[i]We didn't give any better option. Probably half-insane by the time the instruction came in due to the mind-hijacking. Enough time to put the bolt onto the mirror and started to nail it away onto your head, using the friction of the smashed mirror for some balance.[/i]
-
-You picked it up. It is almost blunt, thick and slightly rusty. You searched around the place, and find that one of the medicine cabinet's missing a bolt. That must be where you got it from.
-
-[i]Rough, that. The act of hammering a rusted bolt into one's skull. Not an easy task to do, given how much pain this body must be feeling from you forcibly hijacking its consciousness to guide your own past's murder. Well, now you are both one, and can barely remember the pain, so it probably even.[/i]
-
-Can barely remember anything at all, actually. But if you would hazard a guess, your last thoughts must be horror, if you is even capable of feeling it at the time between the maddening… impulse.
-
-//that wretched thing last thought was of home//
-
-*label HomeChoice
-*if (stillConvo=false) 
-	*set convoCount 0
-Home. The war. Tourism. A limbo of suburbs.
-
-*choice
-	*disable_reuse #The War?
-		*set convoCount +1
-		*set parasiteRoost true
-		*set stillConvo true
-		It ended late into your first year of elementary school. The 2000s.
-		
-		Its hazy to you, now. A side effect of time travel, perhaps. Or maybe, you just never bothered to care.
-		
-		//two million and seven wounded, eight hundred thousands death. two hundred and ninety thousand civilian casualty. only twenty seven thousand displaced//
-		*goto HomeChoice
-	*disable_reuse #Tourism?
-		*set convoCount +1
-		*set inkNotWeep true
-		*set stillConvo true
-		Perhaps death is a meme that wake the poetic hearts of people with too much time on their hands. Or perhaps the scorched cities and the ravaged rice field and ruins of old Vietnam's palace make tourists heart's go bobbity-bob. But after the war, pain-tourism is a real industry.
-		
-		//"The American trade war practically gutted the country growth, and the image of men in small village huts, who somehow managed to stalemate one of the biggest colonial empires on Earth, became romanticized"
-		(The Brown Journal of World Affairs, 2023, April 18)//
-		*goto HomeChoice
-	*disable_reuse #A Limbo?
-		*set convoCount +1
-		*set sunCalledStar true
-		*set stillConvo true
-		The endless heat. A drought of rain. Then flood. Then storm. Then the sun boil the bleached concrete walls and the uneven rooftops and the sand-mixed-grass fields all over again before the turn of the seasons washed the clouds bone white and the beaches with tourist's trash all over again.
-		
-		//childhood. growing up. sounds of karaoke and drunkards pissing themselves between the plastic stool of some street bar, of watching crying housewives sprawled on the street at 2AM from their husband beating with strange fascination, of counting roadkills on the way to school and the infinity of classes between the spare hours of the day//
-		
-		[i]Somewhere in Vietnam, that how we used to be.[/i]
-		*goto HomeChoice
-	*if (convoCount >2) #I am not here to fix the past.
-		*set stillConvo false
-		*goto ThePlan
-	
-*label ThePlan
-//so it seem//
-
-You are not here to… redo anything. If- if anything, this… this might undo whatever you could have considered 'good' about your life. I can't - you-
-
-//broke the narrator. what else this body has that isn't fucking breaking down now?//
-
-[i]Damn it, focus. We wasted too much time on this self-pity shit. How long til DragonFall!?[/i]
-
-//a weeks, less so if it is afternoon right now//
-
-At this time of the year, there is not much differentiation between mid morning and late afternoon.
-
-//thirteen crash sites for the first wave. six for the second. the Egg comes last, in Netherland//
-
-
-
-*page_break There is no goddamn plan!?
-
-Not… precisely. We do. It just… sparse on the low level details. Its a… work in progress.
-
-You stood up to check the state of your clothing. You can't leave the motel with this getup. The blood on your body would be difficult to clean, and the smell would not go away with soap that easily. The hole - the Gate, meanwhile, is the hardest to hide.
-
-//simple. destroy civilization as we know it, kill the god in the machine, and break down the wall between this reality and the next//
-
-With some caveats to that, but that the high level goal. By the way, the body in the tub could senses something important in the medicine cabinet. See if it helps.
-
-*fake_choice
-	#Search the medicine cabinet
-		You searched around the bathroom's medicine cabinet for something useful. Some cotton rolls, but no bandage. Your wallet is also there, empty beside driver license, IDs and some gums.
-
-
-*page_break Why did I ever think that I could do this?
-
-A lack of options. Either destroy the world, or… Quinn won't.
-
-Quinn was a believer, until the end. Of never letting go.

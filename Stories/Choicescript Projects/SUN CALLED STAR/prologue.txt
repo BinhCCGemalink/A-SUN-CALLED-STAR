@@ -1,28 +1,28 @@
 [i]In the darkness of the room, something like us stood in the shallow of a flood.[/i]
 
-[in Darkened Depth, Behold]
+(in Darkened Depth, Behold)
 
 The saddened reflection of a creature oh so horrid.
 
 [i]Of a forehead battered, of a mind concaved, leaking red by the reason.[/i]
 
-[louder. just Loud. these are Reasons to be Loud]
+(louder. just Loud. these are Reasons to be Loud)
 
 There is no reason.
 
-[Emergency Boot - - - 97%]
+.\\Emergency Boot _ _ _ 97%
 
 [i]No such silence.[/i]
 
-[System Readings - - - 0.45%]
+.\\System Readings _ _ _ 0.45%
 
 Heart beat knocking colder in dead flesh.
 
-[…dusting feet on a new welcome mat]
+(…dusting feet on a new welcome mat)
 
 [i]Opening doors, turning knobs.[/i]
 
-[Wake Me Up]
+(WAKE ME UP)
 
 Bring you out.
 
@@ -30,51 +30,262 @@ Bring you out.
 
 [i]Failure discarded.[/i]
 
-[Cognito, Ergo Sum - therefore]
+.\\Cognito, Ergo Sum 
 
-Ergo, you.
+(therefore)
+
+[i]Ergo, you.[/i]
 
 *page_break [Welcome Back, Operator]
 
 Welcome back, to this wreck of a brain jar.
 
-[this fleshlight of a body]
+(this fleshlight of a body)
 
-…waking up to some dinky hotel in the middle of nowhere. With its ceiling almost pried off, dangling ceiling fan hanging above your head like a deathtrap, the bed merely a bamboo mattress on a steel frame, and blood all over your pills. 
+[i]…waking up to some dinky hotel in the middle of nowhere important.[/i]
 
-Painkillers, stashed under a shattered medical box, next to a smashed mirror in a prison box of a bathroom. And in the aged porcelain sink, the cause of it all: a small portable drills, its point still wet with the bits of your forehead. 
+(does it needed to be?)
 
-The mere sight of it salt the tip of your tongue.
+With its ceiling almost pried off, dangling ceiling fan hanging above your head like a deathtrap, the bed merely a bamboo mattress on a steel frame, and blood all over your pills. 
+
+[i]Painkillers,[/i]
+
+…stashed under a shattered medical box, next to a smashed mirror in a prison box of a bathroom. And in the aged porcelain sink, the -
+
+[i]The cause of it all: a small portable drills, its point still wet with the bits of their forehead. [/i]
+
+The mere sight of it salt the very tip of your tongue.
 
 *page_break Where am I?
 
-[i]The city is buzzing. Light bulb blinking, drowned out by the flooding midday noon. The droning static of the ancient brick of an CRT TV model. The smell of urban decay eat through your touch like day-old mold.[/i]
+The city is buzzing. Light bulb blinking, drowned out by the flooding midday noon. The droning static of the ancient brick of an CRT TV model. The smell of urban decay eat through your touch like day-old mold.
 
-[Off. so Off. Off our game. Off this world. Off our head]
+[i]Somewhere out there, dragons fall…[/i]
 
-The CRT TV flicked on. Something about a Silicon Valley market crash. Vietnamese.
+[i]A man stood on a high way street look at his phone, where image of the sky itself form winged teeth…[/i]
 
-[i]Someone's mother tongue.[/i]
+[i]Fire burns away Mars and the Moon eclipsed the nations of man…[/i]
 
-[ours]
+[i]and the ardent adherents of the promised rapture ascended into the sky, to great the new gods and monster that would build their kingdom anew this tiny blue rock…[/i]
 
-Its 26 of June, 2022, near the border between Vietnam and Laos, an hour away from Da Nang city.
+*page_break My head...
 
-[ten years ago. we had just ran away from home]
+(off. so off. off our game. off this world. off our head)
+
+The CRT TV flicked on. Something about a Silicon Valley market crash. A language you recognized.
+
+[i]Vietnamese. Someone's mother tongue. [/i]
+
+(ours)
+
+[i]Its 26 of June, 2022, near the border between Vietnam and Laos, an hour away from Da Nang city by bus.[/i]
+
+(ten years ago. we had just ran away from life. college. home. and being human)
+
+*page_break I - I... can't...
 
 A slump, and a wet bang on the cheap porcelain tub. Something heavy and soft cracked its head on the uneven wall beside you, kneeling over in the tub. A splash of water jolted you up from your reverie.
 
 You don't even need to look to know whose corpse that was.
 
-[ours]
+(ours)
 
 [i]Once again, it whispered, one mistake to another.[/i]
 
-[disappointed?]
+(disappointed, oh three-faced specter?)
 
 *page_break Vomit
 
-A great worm of vertigo crept up from behind your ear lobes. A throbbing migraine that is neither from the left nor right, back nor forth, but an hidden, non-existent, fifth horizontal direction of the brain.
+A great worm of vertigo crept up from behind your ear lobes. 
 
-String of nothing creak slip free between your teeth and your tongue to clog the sink. Sour, not salty. You are hungry. Your eyes sting. You haven't slept for days. Their tear ducts are as empty as the content of your stomach.
+[i]A throbbing migraine that is neither from the left nor right, frontal nor parietal, but hidden, non-existent, temporal. A seventh degree to a seventh direction to a seventh dimension of the back of this brain that is thinking itself awake.[/i]
 
+(loud, our thoughts. too loud)
+
+String of watery bile slip free between your teeth and your tongue to clog the sink. Sour, not salty. You are hungry. Your eyes sting. You haven't slept for days. Your tear ducts are as empty as the content of your stomach.
+
+*fake_choice
+	#Grip the sink. Stare at it.
+		Something has seized your senses. A running chill behind your neck. A frenzy thumping in the rhythm of your breath, the sounds of blood rush by your ear. For a moment, your body begrudgingly admit, there is romance in being this real and this tangible. 
+		
+		But that isn't enough. There is a need, a great need, for you to bite, claw at it, something, anything, to tear into one thing that is real.
+	#Bite my tongue. Held it in.
+		The taste of it run down your mouth. Blood and drools swell the inside of your lips. Heat. There is heat in the act, a passion in knowing that warm, vicious sauce of life still bleed from your flesh that felt so cold until now. 
+		
+		But that wasn't enough. There is a need, a great need, for you to bite harder, tear it off. To scream bloody murder at the top of your lungs.
+
+	#Index finger dug into my throat. Let it all out.
+		You felt it. The worm itself. A gag and a choke, and by god you drag it out, vomit until all of it was air. Somehow, that little act of logical violence was… pleasing to your fucked up brain chemistry. 
+		
+		But it wasn't enough. There is a need, a great need, for you to struggle more, to bite it, claw it, expunge it.
+
+To scream bloody murder at the top of your lungs. Admitting your role in all this madness. But it seemed merely the thought of it has exhausted your body.
+
+This - all this - has felt too darn familiar.
+
+(we have forgotten this feeling)
+
+*fake_choice
+	#Truly?
+		[i]…yes[/i]
+		
+		You have.
+	#I don't want to remember.
+		…there is little choice in that matter
+		
+		Because you do.
+	#The feeling... what is it called?
+		…perhaps someone did name it, in a language that they have yet to know
+		
+		But, in the here and now, you can't.
+
+The corpse said, its lips cold, teeth bone white. Water clogged its throat, too. The tub's faucet is on. Black red ooze seep the cold into the skin of your toes as they spill onto the dirty marble floor.
+
+(don't move)
+
+Something slip out from the shadow of your eyes. Above the sink.
+
+[i]Creature. Abomination. Something from Hell on Earth.[/i]
+
+You jolted.
+
+[i]And so does it.[/i]
+
+Eyes wild. Teeth bare. Tongue bloodied. Scalp split like flapping curtain. A hole on the creature's forehead. 
+
+(percision twist drill. '#83 diameter 3/4 OAL 118 degree high speed steel bright finish jobber length)
+
+[i]Cheapest one it could have bought, given the circumstance. The sight of it would have given any proper neurosurgeon a heart attack.[/i]
+
+But you make it work. Three centimeter incision, five millimeter deep. Apply pressure until a loss of resistance is felt.
+
+(tiny fragment of bone on the floor, red)
+
+Cranial bone. Your. This, I know.
+
+[i]Make one wonder, doesn't it?[/i]
+
+Wonder if…
+
+*page_break What are you?
+
+[i]The creature asked itself.[/i]
+
+Your reflection offer no answer as your eyes wander from the you at mirror, then back to the you at the tub.
+
+[i]Then it stares at its own hand. To truly appreciate the effort it took to return back here, to this meat fold, and not some other, more iron and gunpowder, thing that existed in the past of future-abandoned.[/i]
+
+Your hand, the skin, it creased. Dipped in the water for too long, it felt like the stuff from an alien movie. Like it belong to another race of creature other than the human race.
+
+(other than the apes)
+
+*fake_choice
+	#Apes?
+		(of taxonomic class Hominids, not Hylobatids, and of the uniquely lonely genera Homo, of which only the self-declared sapien creatures remain by themselves)
+		
+		[i]This is, of course, just another childish way to throw a tantrum against everything. This creature hold a distinct, if cynical, fondness for that sort of thing.[/i]
+		
+		You are of undoubtedly human bred and raised. As is any other creature currently capable of such… demeaning insult toward itself. However, understandably, you felt-
+		
+		( -is of no consequence. there is no need to think about such things)
+		
+		*fake_choice
+			#I do, though.
+				(thinking do us no good)
+				
+				[i]That is, unfortunately, a proven model for suffering. Indulgent Latin phrase about consciousness and awareness soon follow suit and the next thing anyone know, tada.[/i]
+				
+				You.
+				
+				You are, however, addicted to it. Thinking, feeling, that socializing thing you do with your mouth every once in a blue moon. So go ahead. Name your theory. You felt…?
+				*fake_choice
+					#I felt alone.
+						You do. That doesn't bother you. Try again.
+						*fake_choice
+							#Wait, hold on. It doesn't?
+								(we talk to ourselves too much for that)
+								
+								*fake_choice
+									#I still feel terrible, though?
+										Well yeah, that your default state of being.
+									#Make sense, in a way.
+										It doesn't. 
+					#I felt like I am better than them.
+						You are not. But yes, sometimes. This, however, never hold that much thoughts for you. It just part of your cycle to beat yourself up over it. Try again.
+					#I felt... empty.
+						(oh, so the last three pages of inner dialogs is just us feeling empty? oh yeah that make perfect sense)
+						
+						[i]Perfect fucking sense.[/i]
+						
+						You have a point. Try again.
+					#I felt like a failure. The biggest disappointment  in the world.
+						In parts. Even you know that is a pointless hyperbole. Your pride speaking for itself. You were never that important. A bit player, even in the story of your own life.
+						
+						(don't let Quinn catch us saying that. knuckle sandwich)
+						
+						[i]KNUCKLE. SANDWICH.[/i]
+						
+						Try. Again.
+					#Ugly. I am ugly.
+						[i]Is that a feeling, now?[/i]
+						
+						
+					#Alien. I felt alien.
+						Yes.
+						
+						
+						
+						*page_break -and?
+						Yes.
+						
+						*fake_choice
+							#So that's it? That's why?
+								No. But that is…
+								
+								(as far as we can go)
+								
+								[i]Being alien was never the true reason for this. Given reason, or lack of any reason at all, any member of humanity may come to empathize with even inert objects. Humanize it.[/i]
+							
+	#No
+
+It is cool. You lost too much blood. Your skin felt oily. Sweat.
+
+(what we did was certainly an exercise)
+
+[i]Footsteps from somewhere. The creaking of a doorknob.[/i]
+
+(so weird, is it?)
+
+To see you…
+
+(…seeing us, in such a way)
+
+Your hand wandered up, to your forehead, and then further, to the wound, the hole in your brain, and above still.
+
+*fake_choice
+	#I could felt my bare scalp...
+		(bald)
+	#Combing my finger between my hair...
+		(straight)
+	#Twisting the curls around my fingers...
+		(curly)
+	#
+[i]The sound of something vulgar hit very bluntly at its back. Very, very vulgar. It reeks of fear at the unknowable creature that stand before them. Her?[/i]
+
+You know that voice. Its the landlord.
+
+(how will you ever explain this to her?)
+
+[b]Hello hello. Murder murder murder. Not. Technically, this is a suicide. It is still illegal, if your past-self do it to you? No one ever has been jailed for successfully offing themselves before. Successfully.[/b]
+
+(note - this argument is very unlikely to go in court. fucked if we ever-)
+
+More footsteps. You could heard them talking behind your back. Louder, male, older. The click of a baton leaving its wielder's belt.
+
+(can't turn our back, really, its too hypnotizing)
+
+Some woman screaming from here all the way down and up the stairs again. Must be the most exciting moment of this dull life for her.
+
+(chest bare, really bare, bone and red all the way down the drain)
+
+Its clogged.

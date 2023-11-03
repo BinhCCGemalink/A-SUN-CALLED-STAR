@@ -54,20 +54,23 @@ With its ceiling almost pried off, dangling ceiling fan hanging above your head 
 
 …stashed under a shattered medical box, next to a smashed mirror in a prison box of a bathroom. And in the aged porcelain sink, the -
 
-[i]The cause of it all. Somewhere out there, in the Scottish wilderness, at the northen tip of  the sound of someone sneezing in the cold. Cursing up a storm. Red, wet locks swept over the gas mask's lens. Bad luck. Some how, somewhere, bad luck. And whose fault is that, eh?[/i]
+[i]The cause of it all. Somewhere out there, in the Scottish wilderness, at the northen tip of Loch Ossian, between the howl of the highland wind and the footsteps of the Giants a neurosurgeon stood. Pen held aloft over their notebook, the next word written hang in the air, in anticipation… of something. A stone suspended, held aloft by force unseen, wet with yesterday rain water, obsidian core obscured the sun from the view point of this small, human, character. Wet, red locks of hair obscure their gas mask lens. Moving closer, over their shoulder, seeing it, the arithmetic horror appearing between crumbled, tattered page of the notebook. Stopping. Looking. Peering back. Their red eyes, seen so clearly even through the darkened glass of the mask, turning back to search for it. Someone out there? Calling for-[/i]
 
-… it's just a small portable drill, its point still wet with the bits of dug up bone. The mere sight of it salt the very tip of your tongue, sending something bitter to the skin of your forehead.
+… it's just a small portable drill, its point still wet with the bits of dug up bone. The mere sight of it salt the very tip of your tongue, sending something bitter to the skin of your forehead, where it trail down along the bridge of your nose.
 
 *fake_choice
 	#Where am I?
 		The city is buzzing. Light bulb blinking, drowned out by the flooding midday noon. The droning static of the ancient brick of a CRT TV model. The smell of urban decay eat through your touch like day-old mold. Cockroaches gathering like dust around the cornered threshold between the windowstill, blotting out the windows in fluttering motion. Peering in. Watching you. You, the returned. The survivor. Conqueror. One and the same, you and them. One and the same. Back here. On this side, one 'end of the world' to the next. Still…. still.
 		
-		(
-	#What... was that?
+		(still here… for the second act)
+	#What... happened?
 		Tiny bubbling snaps of electricity dance long the blinking light bulb at the edge of your eyes. It felt heavy just to keep them open, seeing the colors draining steadily from the dull, yellow, molding white paint peeling from the concrete. Something of you disconnected from the rest, floating there in the static, white noise sea of ambiance from an ancient brick of a CRT TV in the next room. End. The end. Some sort of ending. Credit rolling on the nerves of your dying, fuck up head, some sort of holding on.
 		
-		(for a second act)
-	#Why did I do this?
+		(holding on… for the second act)
+	#Why am I here?
+		Taste like lead in your mouth, the city air. The heat meld into tiny bit of sand and dirt between the crease of the teeth and your gum, into the sweat on your back, lit aflame - felt like it - in the blazing noon light. Hypnotic, the sound of the broken clock on the wall, plain and cheap, ticking endlessly, indefinitely in one place, fleetingly on year-old battery. Mixing together with the static, droning, musing sounds of an ancient brick of a CRT TV that must have been just as old. Your muscles tense, they thirst. Its some sort of addiction, must be, and you have gone too long without a hit.
+		
+		(wanting, waiting… for the second act)
 		
 
 [i]A man stood on a high way street look at his phone, where image of the sky itself form winged teeth…[/i]
@@ -76,7 +79,15 @@ With its ceiling almost pried off, dangling ceiling fan hanging above your head 
 
 [i]and the ardent adherents of the promised rapture ascended into the sky, to great the new gods and monster that would build their kingdom anew this tiny blue rock…[/i]
 
-*page_break My head...
+Blood trail down from the hole on your forehead. The ice cream that you are choking on right now must have been enormous, for your brain now felt like it is freezing over. Almost keeled over, your fingers waddle wildly into the air by instinct, gripping onto the sink for support.
+
+*fake_choice
+	#Wipe the blood away.
+		The more you does it, the more it bled, until your face is slick with red. It is sticky and oily in the worst way, getting thicker in the stale bathroom air until it felt like someone has rubbed glue all over your face, down your neck and ticklishly trailing down your chest.
+	#Focus. Breathe. Breathe.
+		Useless. The ground wakes in your brain. The entire world is on a roller coaster, and your entire being is holding on it for dear life with every breath. Manual, up and down, chest tight with every gulp of air, every drop of blood. The monotonous bothers of life.
+	#Find my balance.
+		They felt like glaciers, your legs. You are all numb and muscle cramps, nailed into the empty air unable to move… nor fall. All you did, could do, was to stood there, watching the blood fell down onto the floor drop by drop.
 
 (off. so off. off our game. off this world. off our head)
 
@@ -90,8 +101,13 @@ The CRT TV flicked on. Something about a Silicon Valley market crash. A language
 
 (ten years ago. we had just ran away from life. college. home. and being human)
 
-*page_break I - I... can't...
-
+*fake_choice
+	#I - I... can't...
+		[i]Too many thing to forget.[/i]
+	#Have I ever left it?
+		[i]Was it all a dream?[/i]
+	#Not here. Anywhere but here.
+		[i]And yet.[/i]
 A slump, and a wet bang on the cheap porcelain tub. Something heavy and soft cracked its head on the uneven wall beside you, kneeling over in the tub. A splash of water jolted you up from your reverie.
 
 You don't even need to look to know whose corpse that was.
@@ -100,10 +116,11 @@ You don't even need to look to know whose corpse that was.
 
 [i]Once again, it whispered, one mistake to another.[/i]
 
-(disappointed, oh three-faced specter?)
-
-*page_break Vomit
-
+(…disappointed?)
+*fake_choice
+	#Vomit.
+	#Hurl.
+	#RETCH.
 A great worm of vertigo crept up from behind your ear lobes. 
 
 [i]A throbbing migraine that is neither from the left nor right, frontal nor parietal, but hidden, non-existent, temporal. A seventh degree to a seventh direction to a seventh dimension of the back of this brain that is thinking itself awake.[/i]

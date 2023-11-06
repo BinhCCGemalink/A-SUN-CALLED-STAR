@@ -2,18 +2,9 @@
 *author Binhcc
 *comment your code goes here
 *scene_list
-    prologue
-    lesson01
-    lesson02
-    lesson03
-    lesson04
-    lesson05
-    lesson06
-    lesson07
-    lesson08
-    lesson09
-    lesson10
-    
+	welcome
+	1996
+	prologue
 *comment convo mechanics goes here
 *create convoCount 0
 *create stillConvo false

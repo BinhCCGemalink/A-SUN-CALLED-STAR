@@ -16,28 +16,62 @@
 
 [ISOLATING COGNITO-GOLBERG THRESHOLDS…]
 
-*page_break |ANONYMOUS|OBSERVER#1996
+*page_break |ANONYMOUS| OBSERVER#1996
 
-[PRINTING]
-(a hue of blue washed over the header name of the paper, despite the black and white ink offer no optical illusion)
+[PRINTING TICKET]
+*line_break
+<a hue of blue washed over the header of the paper, despite the black and white ink>
 
-File.#:
-(scribble with indistinct hand wrting) 
-HQ 106-305509
+<scribble with indistinct hand wrting, fountain pen>
+*line_break
+[b]File.#:[/b][b]HQ 106-305509[/b]
 
-Serial Scope: 76, 76
-
+[b]Serial Scope: 76, 76[/b]
+*line_break
 [DONGHOI.X103.Y5605]
-(faux space coordinate addendum, machine interpeted, liable for error in real space Cartesian context)
+*line_break
+<demon space coordinate addendum, machine interpeted, liable for error in real space Cartesian context>
 
-ISO Context: 
-(previous status and its date has been scribbled away)
+[b]ISO Context: [/b]
+<three previous statuses and their date has been crossed out with a marker>
+*line_break
+[b]FREE 20200320 - INDEF[/b]
 
-[b]FREE[/b] 20200320 - INDEF
+*page_break [REVIEW TRANSCRIPT]
 
-*page_break [CONFIRMED]
+[b]BUREAU OF INTERNAL AFFAIR SUSPICIONS REGARDING A.O#1996[/b]
 
+1. January 11, 2023, Debriefing. Tape 1#E. Counter #423-438.
 
+Control: [CLEARANCE MISSING]
+*line_break
+<even if it decided to play along with you, there are rules that even it would not break>
 
+The scene open with a trashed police station in the outskirt of Da Nang.
 
+Note: French architecture, old colonial building restructured for local law enforcement.
+*line_break
+<attached with it are the floor plan and general history of the location>
+
+Agent [CLEARANCE MISSING] and Agent [CLEARANCE MISSING] moved into the scene, viewed through the building's local camera network. Identifying attribute have been blurred, per procedure.
+
+<your hand felt cold touching the picture. you recognize one of them>
+
+Indistinct chatter could be heard as a sweep is performed over the initial site. No evidence of tampering could be found in the station, beside the lack of personnels. 
+
+This alarmed the agents. 
+
+*fake_choice
+	#[FAST FORWARD]
+		They silently raised their hand in short communion, before moving forward. British armed force field signal, with some unorthodox ones mixed in. they must have worked together as a unit well before.
+
+		<hesitation showed on his face, hand linger a moment too long as it passed his chest, before returning back to grip his rifle tighter>
+
+		[b]A HUNCH[/b] - the lingering trace of the man's religious upbringing, almost forced out by the stress, the sign of the Cross. In any other time it will be a calming platitude. Here…
+
+		One last look at the rear before moving in. Leading agent with rifle, rear agent with a pistol and resting arm. Scene switched to hallway as both methodically and silently clear each room for hostiles.
+
+		First door… ok. Second door… ok. Third…
+	#[SWITCH CAMERA]
+	#[ANALYZE THREAT]
 

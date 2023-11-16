@@ -63,24 +63,20 @@ This merely alarmed the agents.
 	#[FAST FORWARD]
 		They silently raised their hand in short communion, before moving forward. British armed force field signal, with few unorthodox hand signs. The other one merely nodded.
 		
-		[b]OUR REGRET:[/b] there is a coolness in my breath. The heft of the gun comes naturally to the palm of my hand. I felt the sweat running down my brows, stuffy inside this gas mask. Only two agents. Urgent response, no local help. Deja vu… Heart beat louder, psych myself up. To be awake, here, now, and not in the past. Time is a flat circle, he said.
+		[b]OUR REGRET:[/b] I am merely a leaf in the current. Cold sweat, shaky hand. Could even heard the sound of blood rushing through my ear in this stuffy gas mask. The gun felt light in my hand, too light for task I needed it to do. Two agents, back up MIA. Urgent response, zero hour. Deja vu…
 		
-		Slow step as they hug the wall, one watch the ceiling, the other the doors. Noon light through the windows, clear vision, no outstanding threat. 
+		Slow step as they hug the wall, one watch the ceiling, the other the doors in the hallway behind the receptionist desk. Noon light flood through the windows. They are alone.
 		
 		<its a beautiful day, all things considered>
-		*line_break 
-		<everything is so still, beside the waving shades of the tree outside>
 		
-		OUR REGRET: someday, I could have retired here, perhaps with someone special, perhaps all of them. Its a beautiful country.
+		[b]OUR REGRET[/b]: everything is so still, beside the waving shade of the tree outside. Someday, I could have retired here, perhaps with someone special, perhaps all of them. Its a beautiful country.
 		
 		<you disagreed>
 		*fake_choice
-			#They will never allow that.
-				<you could never remember a person that ever make that decision>
-				*line_break
-				<most MIA before they could ever have second thought>
-				*line_break
-				<the rest are, then, in too deep to pull out…>
+			#This is a job you can't quit.
+				<you could never remember a single one of them that ever quit>
+				*fake_choice
+					#In for a pound...
 			#It has never been beautiful at all.
 				<all you could ever remembered are the cramp schools>
 				*line_break
@@ -93,6 +89,8 @@ This merely alarmed the agents.
 				<then storm>
 				*line_break
 				<and the infinity of roadkills in between them, looking from the side walk, feet sore, smelling black tar and roasted pork in the fume of the street…>
+				*line_break
+				<we would get bored of it very quickly if we tried, the domestic life… it just another sort of bleakness>
 			#Why not now? Why not?
 				<then you would have died, and…>
 				*line_break
@@ -100,9 +98,11 @@ This merely alarmed the agents.
 				*line_break
 				<its like an addiction, the researches into these being, there is no way someone like that would ever…>
 		
-		[b]SCANNER LOG[/b]: Compass direction nominal. Geiger counter steady, nominal. Light reflection, refraction nominal. Spatial anomaly… 0.1 centimeter, red.
+		They take a moment before the threshold of the receptionist room and the deep hall way to the jail cells and the interrogation room. 		Red light blinking in the reflection of their gas mask as they looked at each other.
 		
-		Red blink on the reflection of their gas mask. Leading agent keep watch as the other record the scan result, extensible baton sweeping the ground, heavy scanner pulled over their back and fiddling with a mobile console on the other hand.
+		[b]SCANNER LOG[/b]: compass direction nominal. Geiger counter steady, rising. Light reflection, refraction minimal. Spatial anomaly… 0.1 centimeter.
+		
+		Sound of plastic and metal. A fresh batch of electric-charged propellant, silver-tip specialty load in exchanged for the common anti-personnel buckshot. The vrrr vrrr sounds of real-space scanner soon become the only sound left in the room after the leading agent has finished his preparation and lead the way while the rear agent busy with the expensive equipment.
 		
 		<there is a note bellow "mission requisition list: American Observer Response Force, Operation Blue Sky, 2002 Counter-Offensive, Đông Hội war">
 		*page_break

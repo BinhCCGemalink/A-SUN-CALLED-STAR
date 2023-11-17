@@ -49,34 +49,45 @@
 
 The scene open with a trashed police station in the outskirt of Da Nang. French architecture, old colonial building, restructured for local law enforcement.
 *line_break
-<attached with it are the floor plan and general history of the location>
+<attached with it are the floor plan>
+*line_break
+<crumpy, faded pictures of its old inhabitant, the shell damage from the hundred days bombing run… and its revival>
 
-Agent [CLEARANCE MISSING] and Agent [CLEARANCE MISSING] moved into the scene, viewed through the building's local camera network. Identifying attribute have been blurred, per procedure.
+INAPPROPRIATELY HOMELY THOUGHTS: there was nothing of their home left. And this foundation is strong. And so they left, one ruined culture for another.
+
+[b]CONTROL[/b]: [THEY FEAR THE RAIN]
+
+*fake_choice
+	#What else could anyone do? They killed those who could build it back.
+	#Should have tried, at least. Reclaim those days, instead of... this.
+	#Won the war, but... well. Is this winning?
+		
+<but it is a beautiful building though, isn't it?>
+
+Beyond the threshold of the door and the sunny, bright day out they stood. Cladded in black kevlar and expensive equipment, chainmail sticking out from under the bullet-proof gas mask, gun in hand and consecrated steel in another holster the breached the silent sanctity of the empty police station.
+
+CONTROL: Agent [CLEARANCE MISSING] and Agent [CLEARANCE MISSING]
 
 <your hand felt cold touching the picture. you recognize one of them>
 
-Indistinct chatter could be heard as a sweep is performed over the initial site. No evidence of tampering could be found in the station, beside the lack of personnels. 
-
-This merely alarmed the agents. 
-
 *fake_choice
 	#[FAST FORWARD]
-		They silently raised their hand in short communion, before moving forward. British armed force field signal, with few unorthodox hand signs. The other one merely nodded.
+		The leading agent silently signed his hands in short communion, before moving forward. British armed force field signal, with few unorthodox hand signs. The other one merely nodded.
 		
-		[b]OUR REGRET:[/b] I am merely a leaf in the current. Cold sweat, shaky hand. Could even heard the sound of blood rushing through my ear in this stuffy gas mask. The gun felt light in my hand, too light for task I needed it to do. Two agents, back up MIA. Urgent response, zero hour. Deja vu…
+		[b]OUR REGRET:[/b] something flashed through my mind, beyond my notice. A memory so fast that it almost blended into reality of the situation at hand: sweaty palm, blood rush like drum over my ears and an unbearable weight on the sole of my right feet. Just a day after new year. Manhatthan down town was terrible for an alcoholic, as expected. And then… he always said, time is a flat circle.
 		
 		Slow step as they hug the wall, one watch the ceiling, the other the doors in the hallway behind the receptionist desk. Noon light flood through the windows. They are alone.
-		
-		<its a beautiful day, all things considered>
 		
 		[b]OUR REGRET[/b]: everything is so still, beside the waving shade of the tree outside. Someday, I could have retired here, perhaps with someone special, perhaps all of them. Its a beautiful country.
 		
 		<you disagreed>
 		*fake_choice
-			#This is a job you can't quit.
-				<you could never remember a single one of them that ever quit>
-				*fake_choice
-					#In for a pound...
+			#No one ever retire from this line of work.
+				<something to a way of life, or clinging regrets, or unsolved obsession, or just aimless, machine-like purpose of someone who had known nothing else>
+				*line_break
+				<there have been wonder, there have been strangeness, and there have been horror>
+				*line_break
+				<horror of the people in between all of that>  
 			#It has never been beautiful at all.
 				<all you could ever remembered are the cramp schools>
 				*line_break
@@ -90,7 +101,7 @@ This merely alarmed the agents.
 				*line_break
 				<and the infinity of roadkills in between them, looking from the side walk, feet sore, smelling black tar and roasted pork in the fume of the street…>
 				*line_break
-				<we would get bored of it very quickly if we tried, the domestic life… it just another sort of bleakness>
+				<such… would get boring very quickly, the triviality of a domestic life here, by means or by meaning… it just another sort of bleakness>
 			#Why not now? Why not?
 				<then you would have died, and…>
 				*line_break
